@@ -1,0 +1,39 @@
+"239140"
+{
+	"out/profiles/default.pro"
+	{
+		"root"		"0"
+		"size"		"4286"
+		"localtime"		"1575645443"
+		"time"		"1575645442"
+		"remotetime"		"1575645442"
+		"sha"		"7fe4e81e6c3b8989f80467de1ccb5c7f3a5655b0"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"out/save/save_btz_0.sav"
+	{
+		"root"		"0"
+		"size"		"4922"
+		"localtime"		"1527268245"
+		"time"		"1527268244"
+		"remotetime"		"1527268244"
+		"sha"		"f37a174a1d939701025afca6b30868507e56c5ce"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"11"
+	}
+	"out/save/save_coop_0.sav"
+	{
+		"root"		"0"
+		"size"		"26970"
+		"localtime"		"1575645441"
+		"time"		"1575645440"
+		"remotetime"		"1575645440"
+		"sha"		"3742bede167fbd08020fb145c3c4c5172e1454d7"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"11"
+	}
+}

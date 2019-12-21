@@ -1,0 +1,186 @@
+"guidedata"
+{
+	"Hero"		"arc_warden"
+	"Title"		"Standard Rivalry.com Build"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"118"
+	"AssociatedWorkshopItemID"		"0x000000002263F317"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50BFE"
+	"TimePublished"		"0x000000005DF50BFE"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_slippers"
+				"item"		"item_slippers"
+				"item"		"item_ward_observer"
+			}
+			"Sponsored by Rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
+				"item"		"item_hand_of_midas"
+				"item"		"item_boots"
+			}
+			"Core Items (Middle/Safe Lane)"
+			{
+				"item"		"item_maelstrom"
+				"item"		"item_travel_boots"
+				"item"		"item_mjollnir"
+				"item"		"item_silver_edge"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_necronomicon_3"
+				"item"		"item_invis_sword"
+				"item"		"item_sphere"
+			}
+			"Extension Items"
+			{
+				"item"		"item_monkey_king_bar"
+				"item"		"item_hurricane_pike"
+				"item"		"item_nullifier"
+				"item"		"item_butterfly"
+				"item"		"item_bloodthorn"
+				"item"		"item_sheepstick"
+			}
+			"Luxury Items"
+			{
+				"item"		"item_moon_shard"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_travel_boots_2"
+			}
+			"Neutral Items"
+			{
+				"item"		"item_iron_talon"
+				"item"		"item_grove_bow"
+				"item"		"item_vampire_fangs"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_imp_claw"
+				"item"		"item_recipe_vambrace"
+				"item"		"item_clumsy_net"
+				"item"		"item_helm_of_the_undying"
+				"item"		"item_enchanted_quiver"
+				"item"		"item_mind_breaker"
+				"item"		"item_princes_knife"
+				"item"		"item_ninja_gear"
+				"item"		"item_illusionsts_cape"
+				"item"		"item_havoc_hammer"
+				"item"		"item_the_leveller"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_tango"		"Tangos on trees planted by your Iron Branch improve the regeneration"
+			"item_travel_boots"		"Boots of Travel can be used to split-push safely and to compensate for Arc Warden's weak movement speed. This should allow you and your double to maneuver swiftly through lanes to towers and to teleport to one another if one is in danger!
+
+You can also teleport to your Necromonicon units to backdoor"
+			"item_hand_of_midas"		"An early Hand of Midas means double the use with your ultimate: Tempest Double. Be sure to use this to improve your gold farming and your experience (so large Jungle camps preferably). 
+
+Hand of Midas is how you snowball for your other items."
+			"item_bloodthorn"		"Bloodthorn is an end-game item that completely shuts off the active abilities of your targeted enemy.
+
+With it, you and your ally attacks gain True Strike (can't miss) and critical damage and any spell or physical attacks you do will deal additional damage at the end of the silence period."
+			"item_black_king_bar"		"You may need Black King Bar if you get targeted heavily and can deal the abilities and damage that is necessary. Use this also on the Tempest Double as his use will not lower the duration count.
+
+In combination with Magnetic Field, you can then no longer be hit by physical or magical damage!"
+			"item_silver_edge"		"Get Silver Edge if initiating onto enemies is very difficult. With it, you can target enemies with strong passive abilities that make their attacks or resistance too durable to directly fight them."
+			"item_mjollnir"		"Mjollnir's active can be applied on both yourself and the Double; making any damage you receive even more reciprocated. Incredible attack speed with the Chain Lightning effects means an easy fight for Arc Warden and his Tempest Double.
+"
+			"item_nullifier"		"Nullifier amplifies your damage and mutes enemies, preventing them from using their items.
+
+With your Tempest Double, each attack when Nullifier is activated on an enemy will cut their movement speed momentarily - making it harder for them to escape.
+
+Especially useful against BKB users."
+			"item_hurricane_pike"		"If an enemy somehow gets too close to you and your Tempest Double, cast Hurricane Pike to push them away.
+
+Even greater if you can cast Flux on them, making their attempt to catch you even harder."
+			"item_invis_sword"		"Shadow Blade is to help you position when ganking an enemy.
+
+Combined with Flux, you can get in close to summon your Tempest Double, casting double the Flux and finish off your enemies before they are out-of-range of your attacks."
+			"item_butterfly"		"Butterfly not only adds to your armour via your specialized attribute (AGI), but it also allows you to dodge attacks."
+			"item_necronomicon_3"		"Hasten your farm more quickly with an early grab of Necronomicon. You can summon two of them with your Double and push two separate areas, increasing your farming speed even after the Double has expired."
+			"item_sheepstick"		"Scythe of Vyse is a core disable item if you have the damage but your team lacks the crowd-control to keep an especially perserverant enemy down."
+			"item_monkey_king_bar"		"Especially go versus heroes who bought Butterfly or to deal magic damage to a line-up that is heavy on Armor."
+			"item_ultimate_scepter_2"		"Aghanim's Scepter can be useful late-game when you need certain runes like the Double Damage rune, Illusion Rune or Haste even for key situations.
+
+Not recommended to have Agh's in an entire slot but rather when you can afford it as a consumable."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"arc_warden_spark_wraith"
+			"2"		"arc_warden_flux"
+			"3"		"arc_warden_spark_wraith"
+			"4"		"arc_warden_flux"
+			"5"		"arc_warden_spark_wraith"
+			"6"		"arc_warden_tempest_double"
+			"7"		"arc_warden_spark_wraith"
+			"8"		"arc_warden_flux"
+			"9"		"arc_warden_flux"
+			"10"		"special_bonus_cooldown_reduction_8"
+			"11"		"arc_warden_magnetic_field"
+			"12"		"arc_warden_tempest_double"
+			"13"		"arc_warden_magnetic_field"
+			"14"		"arc_warden_magnetic_field"
+			"15"		"special_bonus_hp_300"
+			"16"		"arc_warden_magnetic_field"
+			"18"		"arc_warden_tempest_double"
+			"20"		"special_bonus_attack_range_125"
+			"25"		"special_bonus_lifesteal_30"
+		}
+		"AbilityTooltips"
+		{
+			"arc_warden_flux"		"A great initiating ability that can be difficult to use in lane. Use this on strangling junglers or solo foes caught away from their party. Works on enemies who are in the back of fights:
+
+1. Flux an enemy
+2. Cast Spark Wraith towards their fleeing direction
+3. Magnetic Field when in attack-range
+
+Affects units when they are not nearby allies or neutrals."
+			"arc_warden_magnetic_field"		"Magnetic Field is a great team-support ability for either yourself or an ally:
+
+1. Heroes love this ability to improve their damage and evade phys. attacks
+2. Use this on your own towers to defend against pushes
+3. Use when split-pushing for your units and your Double"
+			"arc_warden_spark_wraith"		"Can target invisibile units. Try and use these to either zone an enemy or to follow-up after using Flux on them."
+			"arc_warden_tempest_double"		"Utilizing your Tempest Double is important as an Arc Warden Player:
+
+1. Double your AOE of Magnetic Field by placing your Double's next to yours
+2. Spam more Spark Wraiths in one location with your Double's cast
+3. Double the duration of Flux's slow by casting on top of your current Flux.
+
+Use Tempest Double to split-push and farm lanes you otherwise couldn't safely do. Losing your double to enemy attacks gives gold."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ Bart
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_cooldown_reduction_10"		"Reduces the cooldown on all your abilities and item active abilities."
+			"arc_warden_scepter"		"Summon the Infinity Stones of Dota 2 by utilizing this ability. Runes range from Bounty Runes to the ones spawned in the river (Arcane, Illusion, Double Damage, Regeneration, etc.).
+
+Tempest Double can also separately use the Rune Forge ability."
+		}
+	}
+}
+ 

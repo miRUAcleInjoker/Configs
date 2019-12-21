@@ -1,0 +1,170 @@
+"guidedata"
+{
+	"Hero"		"centaur"
+	"Title"		"Standard Rivalry.com Build"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"88"
+	"AssociatedWorkshopItemID"		"0x0000000007AC5A75"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50C1B"
+	"TimePublished"		"0x000000005DF50C1B"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+			}
+			"Sponsored by Rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"Early Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_bracer"
+			}
+			"Core Items (Offlane)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_vanguard"
+				"item"		"item_blink"
+				"item"		"item_crimson_guard"
+			}
+			"Utility Items"
+			{
+				"item"		"item_gem"
+			}
+			"Situational Items"
+			{
+				"item"		"item_infused_raindrop"
+				"item"		"item_hood_of_defiance"
+				"item"		"item_blade_mail"
+				"item"		"item_force_staff"
+				"item"		"item_black_king_bar"
+			}
+			"Extension Items"
+			{
+				"item"		"item_pipe"
+				"item"		"item_heavens_halberd"
+				"item"		"item_lotus_orb"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_shivas_guard"
+				"item"		"item_heart"
+			}
+			"Neutral Items"
+			{
+				"item"		"item_poor_mans_shield"
+				"item"		"item_iron_talon"
+				"item"		"item_faded_broach"
+				"item"		"item_arcane_ring"
+				"item"		"item_philosophers_stone"
+				"item"		"item_dragon_scale"
+				"item"		"item_essence_ring"
+				"item"		"item_clumsy_net"
+				"item"		"item_helm_of_the_undying"
+				"item"		"item_craggy_coat"
+				"item"		"item_titan_sliver"
+				"item"		"item_witless_shako"
+				"item"		"item_havoc_hammer"
+				"item"		"item_panic_button"
+				"item"		"item_minotaur_horn"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Blink Dagger allows Centaur Warrunner to improve his initiation ability. With Blink Dagger, you can use your ultimate more to slow your opponent and hoof stomp them to keep them in place."
+			"item_gem"		"Centaur Warrunner is great gem holder generally because he is difficult to kill and is always in the center of fights."
+			"item_pipe"		"Mitigate the damage taken from Double-Edge and provide your team with amazing magic resistance. Pipe of Insight offers great health regeneration for Centaur Warrunner; alleviating any health for ganking with Double-Edge.
+
+Replace Pipe of Insight with Black King Bar if you want strength; but less team-fighting power."
+			"item_force_staff"		"You can Blink Dagger or Force Staff onto a foe and activate Hoof Stomp to catch them before they can escape.   Follow that up with Double-Edge and even your ultimate to either escape after your initiation or flee to avoid being targeted."
+			"item_ultimate_scepter"		"Aghanim's Scepter is perhaps the biggest game-changing thing for Centaur Warrunner and team. The ability to reduce damage as well as go through trees and obstruction ensure ganks from any and all angles are achieved and removes any juking ability from the fleeing enemy."
+			"item_heart"		"Further increases health and regen for Centaur Warrunner. This item helps keep Centaur in the fight and using his low-cooldown abilities to further tear up fights. "
+			"item_shivas_guard"		"Synergizes with Return due to its armor stat and your ultimate: Stampede to inflict a longer slow and AOE damage. Great for teamfights and chases!"
+			"item_lotus_orb"		"Lotus Orb is a great item for Centaur Warrunner who already has a strong advantage of presence with his Return passive. Lotus Orb can also tear down glass cannon magic users who didn't have the foresight to not target Centaur Warrunner."
+			"item_crimson_guard"		"Crimson Guard is your team-fighting saviour. It doesn't necessarily add to Centaur's need for Strength but it helps an otherwise frail ally team from considering whether they should try for that tower or not. "
+			"item_blade_mail"		"Blade Mail helps reduce the amount of hits you will take and synergizes well with your passive ability: Return. Obtain if opponent's have physical-type carry heros."
+			"item_heavens_halberd"		"Strength, Evasion, Disable. Heaven's Halberd was made for a hero with presence like Centaur Warrunner. It makes Return even more valid, it prevents physical enemy carries  from fighting and helps you avoid damage."
+			"item_branches"		"Use Iron Branch to regenerate a larger amount of health in combination with your tango."
+			"item_phase_boots"		"If you're having a good game, go Phase Boots for the damage and movement speed. If you're having trouble, Tranquil Boots is an alternative."
+			"item_vanguard"		"Vanguard provides you with the survivability to farm as well as to overpower others in fights by out-surviving them."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"centaur_return"
+			"2"		"centaur_hoof_stomp"
+			"3"		"centaur_return"
+			"4"		"centaur_double_edge"
+			"5"		"centaur_return"
+			"6"		"centaur_stampede"
+			"7"		"centaur_return"
+			"8"		"centaur_double_edge"
+			"9"		"centaur_double_edge"
+			"10"		"special_bonus_movement_speed_20"
+			"11"		"centaur_double_edge"
+			"12"		"centaur_stampede"
+			"13"		"centaur_hoof_stomp"
+			"14"		"centaur_hoof_stomp"
+			"15"		"special_bonus_unique_centaur_4"
+			"16"		"centaur_hoof_stomp"
+			"18"		"centaur_stampede"
+			"20"		"special_bonus_strength_20"
+			"25"		"special_bonus_unique_centaur_2"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_magic_resistance_10"		"Magic Resistance and Physical Evasion all depends on the enemy line-up, if there isn't a large amount of magic-using carries or you are getting an early Hood of Defiance, you can opt for the evasion.
+
+Otherwise, the Magic Resistance talent perk also means reduction in your Double Edge ability."
+			"special_bonus_strength_15"		"More strength means more life, more Return damage as well as more physical damage."
+			"special_bonus_evasion_10"		"Magic Resistance and Physical Evasion all depends on the enemy line-up, if there isn't a large amount of magic-using carries or you are getting an early Hood of Defiance, you can opt for the evasion.
+
+Otherwise, the Magic Resistance talent perk also means reduction in your Double Edge ability."
+			"centaur_hoof_stomp"		"Hoof Stomp is your initiation to gank. Without Blink Dagger, you can use your ultimate to get close on a foe:
+
+1. Blink Dagger on top of a foe
+2. Use Hoof Stomp to stun them
+3. Double-Edge them and auto-attack until they die
+4. Otherwise, Stampede them and chase if they try to flee."
+			"centaur_double_edge"		"You will alternate between Hoof Stomp and Double-Edge due to their high-damage and low cooldowns.
+
+Double-Edge can be used (with Tranquil Boots) to:
+1. Harass enemies in the lane
+2. Flash-Farm (drop Tranquil Boots on the ground)
+3. As a follow-up to your ganks with Hoof Stomp"
+			"centaur_stampede"		"This ability is global, use it to help allies run away or if they're chasing an enemy hero. It also has a great slow to really keep your opponent in place, so make sure to use it to initiate team fights.
+
+There is a damage effect that occurs by multiplier of your strength."
+			"special_bonus_unique_centaur_1"		"This late into the game, team fights will matter and your aura spreading to other heroes can mean  hurting the enemy team when fighting and to help output more damage after Centaur has used all his abilities."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"centaur_return"		"This ability helps keep Centaur Warrunner alive while also dealing return damage to heros that you force to fight with you.
+
+An early level in Return can help Centaur survive in the lane.
+
+Activate Retaliate once you've ganked a foe and need follow-up damage."
+		}
+	}
+}
+ 

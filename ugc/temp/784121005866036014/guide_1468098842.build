@@ -1,0 +1,207 @@
+"guidedata"
+{
+	"Hero"		"invoker"
+	"Title"		"Invoker | ImmortalFaith Guides"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://discord.gg/JWwa6fC]Join Discord if you have any questions![/url]
+
+[url=https://twitter.com/ImmortalFaithd]Follow me on twitter if you want to know about any updates![/url]
+
+[url=https://www.gamersensei.com/r/36f13c]If you're interested in getting coached by me sign up and you'll also get 5$ free![/url]"
+	"GuideRevision"		"55"
+	"AssociatedWorkshopItemID"		"0x000000005781691A"
+	"OriginalCreatorID"		"0x0000000006300EB0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50F09"
+	"TimePublished"		"0x000000005DF50F09"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_boots"
+				"item"		"item_hand_of_midas"
+				"item"		"item_power_treads"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_sphere"
+				"item"		"item_sheepstick"
+				"item"		"item_refresher"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_cyclone"
+				"item"		"item_ancient_janggo"
+				"item"		"item_shivas_guard"
+				"item"		"item_aeon_disk"
+				"item"		"item_octarine_core"
+				"item"		"item_bloodthorn"
+				"item"		"item_force_staff"
+			}
+			"BASIC ITEMS"
+			{
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+				"item"		"item_clarity"
+				"item"		"item_infused_raindrop"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_magic_wand"		"A very good item for teamfighting, re-engaging and sustaining. "
+			"item_cyclone"		"Can be used either as initiation or escape (remove debuffs or dodge projectiles/spells). Gives movespeed and mana regen to sustain your abilities as well.
+Works very well as a setup to multiple of your Spells:
+1.Ice Wall
+2. Sunstrike
+3. Meteor into Blast.
+"
+			"item_blink"		"Blink Dagger is an item for positioning and initation. It's a great item both offensively and defensively.
+You can use it to initiate in multiple ways:
+
+1.Ice Wall into Cold Snap
+2. Tornado into Meteor into Blast.
+"
+			"item_black_king_bar"		"Black King Bar enables your teamfight abilities; it's an item you usually get against a lot of magic damage or lockdown. Further enables your ability to use multiple spells during teamfights."
+			"item_octarine_core"		"Enhances all your abilities and items. Very strong lategame item."
+			"item_hand_of_midas"		"Since Invoker is highly level dependent this item is great for him to achieve his item/level goals."
+			"item_travel_boots"		"Boots of Travel helps you split push lanes easily. You also get a lot of value out of the move speed and you can join fights easily since you’ll have 2 ways to TP."
+			"item_ancient_janggo"		"A very strong utility item early on; gives you movespeed, stats and mana regeneration. Overall a very strong tool for yourself and your team early game. "
+			"item_shivas_guard"		"A great teamfighting tool, gives you vision while you use it. Works well against physical damage heroes or heroes with illusions/summons. Increases your survivability as well."
+			"item_sheepstick"		"Scythe of Vyse is the strongest disable overall, a perfect item for focusing specific targets."
+			"item_sphere"		"Get Linken's Sphere against single target spells that have a high impact against you. You're also a high value target so defensive items are very useful."
+			"item_aeon_disk"		"A great item to get on heroes that have key abilities or are priority targets for their foes."
+			"item_refresher"		"Double Spells during teamfights, what else can Invoker dream of?"
+			"item_force_staff"		"Situationally can be bought against heroes like Riki or heroes with roots."
+			"item_ultimate_scepter"		"Now adds Cataclysm to Sun Strike. Get it especially when you have setups. If you don't have any setups for Cataclysm skip it and follow the rest of the build."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"invoker_exort"
+			"2"		"invoker_quas"
+			"3"		"invoker_exort"
+			"4"		"invoker_quas"
+			"5"		"invoker_exort"
+			"6"		"invoker_wex"
+			"7"		"invoker_exort"
+			"8"		"invoker_quas"
+			"9"		"invoker_exort"
+			"10"		"invoker_quas"
+			"11"		"invoker_exort"
+			"12"		"invoker_wex"
+			"13"		"invoker_exort"
+			"14"		"special_bonus_unique_invoker_10"
+			"15"		"special_bonus_unique_invoker_1"
+			"16"		"invoker_wex"
+			"17"		"invoker_wex"
+			"18"		"invoker_wex"
+			"19"		"invoker_wex"
+			"20"		"special_bonus_unique_invoker_5"
+			"21"		"invoker_wex"
+			"22"		"invoker_quas"
+			"23"		"invoker_quas"
+			"24"		"invoker_quas"
+			"25"		"special_bonus_unique_invoker_2"
+		}
+		"AbilityTooltips"
+		{
+			"invoker_quas"		"For the Quas + Exort build, max out Exort and stop leveling Quas by level 8.  You'll want to max out Wex after Exort, as you get very little value from leveling up Quas any further."
+			"invoker_exort"		"Active Exort orbs gives damage, therefore we are going to max it to last-hit/deny and harass enemies."
+			"invoker_wex"		"Active Wex orbs increase Invoker's attack speed, and more importantly movement speed which can be useful for chasing down enemies."
+			"invoker_invoke"		"Invoke will not cost mana or go on cooldown if the only effect is to swap the positions of existing spells.
+
+Whenever a new spell is invoked, the oldest of his two currently Invoked spells is removed from selection.
+"
+			"invoker_cold_snap"		"The freeze stun only triggers on damage greater than 10 after reductions.
+
+Cold Snap is very strong when combined with any spell that deals damage over time, as each small damage instance procs the mini-stun and damage. (Meteor / Forge Spirits)
+"
+			"invoker_ghost_walk"		"Ghost Walk can be used as an escape or as a ganking and scouting tool."
+			"invoker_tornado"		"Units are invulnerable while affected by Tornado, and the damage is dealt when landing.
+The damage is applied upon losing the Tornado debuff. 
+
+Can deal up to 115/160/205/250/295/340/385(430 with Aghanim's)
+
+Multiple Combo usages:
+
+1.Tornado into sunstrike
+2. Tornado into sunstrike into Meteor
+3. Tornado into Ice Wall into Cold Snap(you can follow up with Alacrity on yourself).
+
+Use it as an initiating tool.
+"
+			"invoker_emp"		"Will not affect cycloned units (Tornado or Eul's Scepter of Divinity).
+Very good synergy with Tornado.
+
+Use EMP immediately on top of the Tornado units. When they land E.M.P will be applied.
+"
+			"invoker_alacrity"		"Alacrity is a very strong single-target buff on a low cooldown that greatly amplifies the physical damage output of a friendly carry, one of Invoker's summons, or Invoker himself.
+
+Use it on Catapults (Siege creeps) when you're pushing. They will demolish towers.
+"
+			"invoker_chaos_meteor"		"Deals main damage to enemy units under meteor every 0.5 seconds and burns enemies for smaller damage over 3 seconds.
+
+Combine it with:
+1.Tornado
+2. Eul's Scepter
+"
+			"invoker_sun_strike"		"Can be used globally.
+Invoker gains experience with kills from Sun Strike, even if they happen outside of experience range.
+
+Constantly check the map for low HP enemy heroes and try to snipe them.
+
+Setups:
+1. Eul's Scepter
+2. Tornado
+3. Any lockdown from allied heroes
+"
+			"invoker_forge_spirit"		"Casting this ability will replace currently summoned Forged Spirits.
+
+Get the level 15 talent since that will further increase your potential of split-pushing/focusing certain heroes.
+"
+			"invoker_ice_wall"		"Ice Wall is very strong if placed in the middle of teamfights.
+
+The slow will affect Magic Immune units if they become magic immune afterward the are in the Ice Wall.
+
+Very strong when used to disengage.
+
+Combos:
+
+1.Eul's Scepter into Ice Wall
+2. Blink Dagger on top of enemy into Ice Wall
+3. Very strong if followed up with Cold Snap
+
+
+"
+			"invoker_deafening_blast"		"When applied on an enemy it also Disarms them. 
+After reaching level 25 and choosing the talent, Deafening Blast sends out an omni-directional wave that hits all targets around yourself.
+
+Combo it with:
+1.Meteor 
+2.Tornado
+3.Cold Snap
+
+Use it on enemies that do physical damage for the disarm effect.
+"
+		}
+	}
+}
+ 

@@ -1,0 +1,162 @@
+"guidedata"
+{
+	"Hero"		"broodmother"
+	"Title"		"Standard Rivalry.com Build"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"91"
+	"AssociatedWorkshopItemID"		"0x0000000007ACAFB1"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50C15"
+	"TimePublished"		"0x000000005DF50C15"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting Items"
+			{
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_quelling_blade"
+				"item"		"item_ward_observer"
+			}
+			"Sponsored by Rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_soul_ring"
+				"item"		"item_hand_of_midas"
+			}
+			"Core Items (Middle)"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_black_king_bar"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_infused_raindrop"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_diffusal_blade"
+				"item"		"item_desolator"
+				"item"		"item_solar_crest"
+				"item"		"item_sphere"
+			}
+			"Extension Items"
+			{
+				"item"		"item_nullifier"
+				"item"		"item_assault"
+				"item"		"item_butterfly"
+				"item"		"item_mjollnir"
+				"item"		"item_abyssal_blade"
+				"item"		"item_bloodthorn"
+			}
+			"Neutral Items"
+			{
+				"item"		"item_poor_mans_shield"
+				"item"		"item_iron_talon"
+				"item"		"item_broom_handle"
+				"item"		"item_vampire_fangs"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_imp_claw"
+				"item"		"item_dragon_scale"
+				"item"		"item_paladin_sword"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_mind_breaker"
+				"item"		"item_ninja_gear"
+				"item"		"item_illusionsts_cape"
+				"item"		"item_panic_button"
+				"item"		"item_the_leveller"
+				"item"		"item_minotaur_horn"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_quelling_blade"		"Use Quelling Blade to take out enemy sentry and observer wards fast!"
+			"item_infused_raindrop"		"Avoid getting ganked and nuked with Infused Raindrop."
+			"item_boots"		"We stay at brown boots because regardless; you'll want to travel in your webs. With the webs, your speed is nearly unmatched and so, upgrading it to anything besides Boots of Travel is nearly pointless or just a delay to what you really want. "
+			"item_ward_sentry"		"Used Sentry Wards to take out enemy Sentry Wards to allow you to safely farm without fear of being ganked."
+			"item_hand_of_midas"		"GET IT AFTER SOUL RING! Hand of Midas can be great for a passive Broodmother who is farming a lane hard; once you start snowballing pushing the lane, Hand of Midas can really accelerate this trend and push you even farther ahead!"
+			"item_black_king_bar"		"At one point or another, the enemy team will get tired of your annoying pushes and start to gank you heavily, stuns, slows; etc. Black King Bar is practically essentially for a Broodmother who sucks late-game and can't take too many hits/nukes."
+			"item_butterfly"		"Butterfly means a higher movement speed; something you may need when you are into the late-game and your webs wouldn't serve as good as a purpose.
+
+It also means causing further misses on the enemy team; making survive a bit more and push even harder. It's not too shabby of a pick-up this late."
+			"item_desolator"		"Tear down towers and enemies at an incredible rate with Desolator. Desolator overall low cost, direct value to towers and armour reduction makes them an incredibly worthwhile pick-up for Broodmother."
+			"item_soul_ring"		"Soul Ring is your core item. In combination with Spin Web's increased health regeneration and your Spawn Spiderlings ability, you can infinitely spawn new Spiderlings without a single cost your life."
+			"item_sphere"		"Consider Linken's Sphere if specific ultimate, target abilities like stuns and silences are keeping you down. This should be seen different as Black King Bar because it will waste ultimate abilities on you like Doom's Doom or Necrophos' Reaper Scythe from completely killing/disabling you."
+			"item_nullifier"		"Nullifier amplifies your damage and mutes enemies, preventing them from using their items.
+
+With your Spiderlings, each attack when Nullifier is activated on an enemy will cut their movement speed momentarily - making it harder for them to escape.
+
+Especially useful against BKB users."
+			"item_bloodthorn"		"Bloodthorn is an end-game item that completely shuts off the active abilities of your targeted enemy.
+
+With it, you and your ally attacks gain True Strike (can't miss) and critical damage and any spell or physical attacks you do will deal additional damage at the end of the silence period."
+			"item_enchanted_mango"		"Enchanted Mango is to help your regeneration during the early start of the game. Combined with your Webs, you'll have sufficient regeneration to survive in lane until you can afford Soul Ring."
+			"item_medallion_of_courage"		"Medallion of Courage works well with your spiderlings being able to deal more damage to your enemies as well as your ultimate's additional damage done to your foe."
+			"item_diffusal_blade"		"Slow your foe and sap their mana. Compliments well with your ultimate, your increased attack speed, your unbeatable movement speed and Incapacitating Bite's slow with each attack."
+			"item_ultimate_scepter"		"With Aghs, you can unlock your maneuvrability from being trapped in one lane to being able to freely move nearly anywhere on the map with your increased Web count."
+			"item_solar_crest"		"Solar Crest reduces their movement speed, their Armor for more damage and is just a logical upgrade to your early Medallion."
+			"item_assault"		"Assault Cuirass provides the defensive nature of additional armor while also amplifying the damage you deal with your attack (and passive abilities) as well as your Spiderlings' focus on your foe thanks to Cuirass' armor reduction."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"broodmother_spin_web"
+			"2"		"broodmother_spawn_spiderlings"
+			"3"		"broodmother_spawn_spiderlings"
+			"4"		"broodmother_spin_web"
+			"5"		"broodmother_spawn_spiderlings"
+			"6"		"broodmother_spin_web"
+			"7"		"broodmother_spawn_spiderlings"
+			"8"		"broodmother_spin_web"
+			"9"		"broodmother_insatiable_hunger"
+			"10"		"special_bonus_unique_broodmother_3"
+			"11"		"broodmother_incapacitating_bite"
+			"12"		"broodmother_insatiable_hunger"
+			"13"		"broodmother_incapacitating_bite"
+			"14"		"broodmother_incapacitating_bite"
+			"15"		"special_bonus_cooldown_reduction_20"
+			"16"		"broodmother_incapacitating_bite"
+			"18"		"broodmother_insatiable_hunger"
+			"20"		"special_bonus_unique_broodmother_4"
+			"25"		"special_bonus_unique_broodmother_2"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_exp_boost_25"		"Get this talent if you go Hand of Midas."
+			"broodmother_spawn_spiderlings"		"Spawn Spiderlings can be used in a variety of ways to farm gold, get kills or push towers:
+
+1. Use Spawn Spiderlings to ensure last-hits and further your army to eventually push towers
+2. When a lane is pushed from all your Spawn Spiderlings,  go to jungle to farm with them until the lane resumes."
+			"broodmother_spin_web"		"Spin Web lets you traverse over cliffs, through trees and anywhere unobstructed. Use it as an escape or to scout out areas near the lane in case of ganks.
+
+When pushing a lane way out from your side of the map, place a Web nearby for you to retreat when unsure if an enemy is going to gank you."
+			"broodmother_incapacitating_bite"		"Couple the slow and miss chance with Broodmother's ultimate and you have a very strong late-game carry. With this maxed, you can kill enemies without fear of retaliation as the slow and miss will force them to flee.
+
+Doesn't affect buildings."
+			"broodmother_insatiable_hunger"		"Use this ultimate to heal yourself given its low cooldown:
+
+1. Activate Orchid of Malevolence on your target
+2. Use Insatiable Hunger to wear them down
+3. Use Spawn Spiderlings to nuke them down fast and Spin Web for the movement speed and potential retreat after you kill the foe."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_cooldown_reduction_20"		"Affects ability and active-item cooldowns."
+		}
+	}
+}
+ 

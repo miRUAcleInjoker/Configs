@@ -1,0 +1,39 @@
+"1046930"
+{
+	"user_keys.vcfg"
+	{
+		"root"		"0"
+		"size"		"13"
+		"localtime"		"1560489858"
+		"time"		"1560489855"
+		"remotetime"		"1560489855"
+		"sha"		"8b16ea5ffd5ca90efd1c909d0625202b7200318d"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"user.vcfg"
+	{
+		"root"		"0"
+		"size"		"37"
+		"localtime"		"1563284265"
+		"time"		"1563284264"
+		"remotetime"		"1563284264"
+		"sha"		"56fcf133149b40006d333e515db53b1ee3c08e90"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"voice_ban.dt"
+	{
+		"root"		"0"
+		"size"		"10"
+		"localtime"		"1560490182"
+		"time"		"1560490179"
+		"remotetime"		"1560490179"
+		"sha"		"2c5c48655f74be0b6d83b0d5d9dfd1f44021e556"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

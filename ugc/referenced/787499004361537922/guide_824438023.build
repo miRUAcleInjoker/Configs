@@ -1,0 +1,185 @@
+"guidedata"
+{
+	"Hero"		"ancient_apparition"
+	"Title"		"GOX-战斗流冰棍，治疗克星"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"积极参战，对线技能高输出，中期大量生存装保命，后期可转型物理输出
+强势辅助英雄，二级无敌，对线随意杀
+后手英雄，需要配前排肉盾，先手控制，大招可以针对高回复英雄，水人，神灵，瘟疫，炼金等
+
+阵容来看，一般需求阵容中有一定的前排肉盾和先手控制即可
+可以补充大量的输出，和天怒爆发能力接近，但是天怒功能偏限制针对
+冰棍针对奶量大高回复的推进阵容有奇效，一个大招，让对面奶妈阳痿
+也可以针对特殊英雄，如水人、哈斯卡、血魔这些仗着回复快，胆子大的
+
+实战中最重要的是看阵容，或者建议队友补位
+只要队友的切入能力好，有人配合控制留人
+冰棍就有无穷大的舞台
+1、出门刚三最强，哪怕队友没有控制，三人追着一人打一下
+靠3技能的轮流短减速，也能杀人
+2、线上是很容易杀崩的，一旦对方崩了不敢上线，要给自己找事做
+比如控个河道符，干中，如果中单没有杀人能力就拉野堆野
+3、后手英雄，视野很重要，要及时补眼，掌握对方的动向
+也方便开大收逃跑的人头
+4、中期一定要适当撑血，冰棍出手弹道好，而且3技能增加大量伤害
+如果不进行普攻，会浪费非常多的输出
+5、团战不光对着战场满地扔漩涡，也要对着四周的树林和高台放
+开阔视野，预防可能出现的敌人
+6、遇到神灵和炼金、水人这种就别放给他的队友了
+对于必须针对的英雄，必须留技能，针对到死！
+7、到了大后期，一定要有黑黄、永恒
+"
+	"GuideRevision"		"41"
+	"AssociatedWorkshopItemID"		"0x000000003123ED07"
+	"OriginalCreatorID"		"0x00000000031428A3"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF920A2"
+	"TimePublished"		"0x000000005DF920A2"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_courier"
+				"item"		"item_ward_observer"
+				"item"		"item_orb_of_venom"
+				"item"		"item_enchanted_mango"
+			}
+			"对线消耗，配合击杀"
+			{
+				"item"		"item_boots"
+				"item"		"item_enchanted_mango"
+				"item"		"item_infused_raindrop"
+				"item"		"item_urn_of_shadows"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_magic_wand"
+				"item"		"item_phase_boots"
+				"item"		"item_arcane_boots"
+				"item"		"item_ward_observer"
+				"item"		"item_tpscroll"
+			}
+			"团战支援控制"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_rod_of_atos"
+				"item"		"item_spirit_vessel"
+				"item"		"item_hurricane_pike"
+				"item"		"item_heavens_halberd"
+				"item"		"item_aeon_disk"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_abyssal_blade"
+			}
+			"针对克制变招"
+			{
+				"item"		"item_glimmer_cape"
+				"item"		"item_blade_mail"
+				"item"		"item_mekansm"
+				"item"		"item_black_king_bar"
+				"item"		"item_guardian_greaves"
+				"item"		"item_meteor_hammer"
+				"item"		"item_ghost"
+				"item"		"item_cyclone"
+				"item"		"item_sheepstick"
+				"item"		"item_dagon_5"
+			}
+			"其他可选装备"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_tranquil_boots"
+				"item"		"item_ancient_janggo"
+				"item"		"item_bloodthorn"
+				"item"		"item_solar_crest"
+				"item"		"item_mjollnir"
+				"item"		"item_moon_shard"
+				"item"		"item_travel_boots"
+			}
+			"废品回收站"
+			{
+				"item"		"item_ethereal_blade"
+				"item"		"item_diffusal_blade"
+				"item"		"item_octarine_core"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_heart"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_phase_boots"		"【战斗鞋】关键的机动性，提高物理抗性，另外冰棍出手弹道好，打一些物理输出"
+			"item_hand_of_midas"		"冰棍极其缺格子，而且十级天赋自带免费点金，可不出这个装备"
+			"item_urn_of_shadows"		"【可选】战地回复，适量回蓝"
+			"item_sheepstick"		"最强点控，长时间，硬控制。"
+			"item_bloodthorn"		"强力输出道具，克制肉核"
+			"item_force_staff"		"生存装，救援队友"
+			"item_refresher"		"其实没什么用"
+			"item_black_king_bar"		"【生存装】团战火力全开"
+			"item_octarine_core"		"其实没什么用"
+			"item_glimmer_cape"		"【生存】保大哥，自救拉扯"
+			"item_diffusal_blade"		"优秀的物理输出，附带减速效果，提高攻速"
+			"item_ancient_janggo"		"撑蓝回血，团队光环，前期强势战斗道具"
+			"item_dagon_5"		"超高法系爆发"
+			"item_rod_of_atos"		"【最强先手】超强打架装"
+			"item_kaya"		"大量提高法系输出"
+			"item_aeon_disk"		"生存装，保证在恶劣条件下，强行放大"
+			"item_arcane_boots"		"保证足够蓝量，队友严重缺蓝可选"
+			"item_tranquil_boots"		"【常规鞋】高机动性"
+			"item_spirit_vessel"		"【针对肉盾】超强输出，对单英雄可省大招，持续时间8秒，远长于A仗对大招的增益"
+			"item_enchanted_mango"		"瞬间回蓝，加强消耗节奏"
+			"item_cyclone"		"躲避超高爆发，回蓝加移速，可惜不撑血，被集火几乎毫无用处"
+			"item_heavens_halberd"		"克制物理核心"
+			"item_mekansm"		"团队恢复，提高护甲"
+			"item_guardian_greaves"		"解状态，团队快速补给、生存"
+			"item_ultimate_scepter"		"延长五秒BUF，其实效果很弱，不值四千大洋"
+			"item_hurricane_pike"		"超远射程，逃生能力，输出环境"
+			"item_blade_mail"		"优秀属性，大量输出。保证大招命中后，用生命输出，加速敌人血量到达斩杀线"
+			"item_moon_shard"		"大量攻速"
+			"item_meteor_hammer"		"提供清兵，破塔能力"
+			"item_solar_crest"		"提高物理抗性，团队物理输出"
+			"item_ethereal_blade"		"提高团队法伤"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"ancient_apparition_cold_feet"
+			"2"		"ancient_apparition_chilling_touch"
+			"3"		"ancient_apparition_chilling_touch"
+			"4"		"ancient_apparition_ice_vortex"
+			"5"		"ancient_apparition_chilling_touch"
+			"6"		"ancient_apparition_ice_blast"
+			"7"		"ancient_apparition_chilling_touch"
+			"8"		"ancient_apparition_cold_feet"
+			"9"		"ancient_apparition_cold_feet"
+			"10"		"special_bonus_gold_income_90"
+			"11"		"ancient_apparition_cold_feet"
+			"12"		"ancient_apparition_ice_blast"
+			"13"		"ancient_apparition_ice_vortex"
+			"14"		"ancient_apparition_ice_vortex"
+			"15"		"special_bonus_unique_ancient_apparition_3"
+			"16"		"ancient_apparition_ice_vortex"
+			"18"		"ancient_apparition_ice_blast"
+			"20"		"special_bonus_unique_ancient_apparition_4"
+			"25"		"special_bonus_unique_ancient_apparition_6"
+		}
+		"AbilityTooltips"
+		{
+			"ancient_apparition_cold_feet"		"前期强力后手，冻住必死。看阵容，队友有控制主升，没控一级就够"
+			"ancient_apparition_ice_vortex"		"弱减速效果，耗蓝巨大，重点在于削弱魔抗，中后期技能，前期没用，"
+			"ancient_apparition_chilling_touch"		"远距离无伤消耗，升级降低冷却，可用于拉野
+"
+			"ancient_apparition_ice_blast"		"灵魂技能，克制强奶阵容，全屏打击时间太长，机会稍纵即逝，能TP跟队友就尽量参团，近距离放大"
+			"attribute_bonus"		"臭酱油的最后依靠，没钱买装备靠黄点撑属性"
+			"special_bonus_spell_amplify_10"		"冰棍技能主要提供功能，输出更靠物理"
+			"special_bonus_unique_ancient_apparition_3"		"后期无限蓝，提高战场机动性，提高伤害都很重要"
+			"special_bonus_unique_ancient_apparition_2"		"补充物理输出"
+			"special_bonus_unique_ancient_apparition_4"		"补充限制和法术伤害"
+			"special_bonus_unique_ancient_apparition_5"		"【肉盾杀手！】提高输出，收割能力，配合A仗杀人必死！"
+			"special_bonus_unique_ancient_apparition_6"		"超强战场团控，强力清兵能力"
+			"special_bonus_hp_regen_20"		"提高生存能力"
+		}
+	}
+}
+ 

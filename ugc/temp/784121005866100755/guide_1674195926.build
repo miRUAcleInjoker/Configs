@@ -1,0 +1,145 @@
+"guidedata"
+{
+	"Hero"		"mars"
+	"Title"		"Mars | ImmortalFaith Guides"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://discord.gg/JWwa6fC]Join Discord if you have any questions![/url]
+
+[url=https://twitter.com/ImmortalFaithd]Follow me on twitter if you want to know about any updates![/url]
+
+[url=https://www.gamersensei.com/r/36f13c]If you're interested in getting coached by me sign up and you'll also get 5$ free![/url]"
+	"GuideRevision"		"39"
+	"AssociatedWorkshopItemID"		"0x0000000063CA33D6"
+	"OriginalCreatorID"		"0x0000000006300EB0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF51386"
+	"TimePublished"		"0x000000005DF51386"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_quelling_blade"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_soul_ring"
+				"item"		"item_phase_boots"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_vladmir"
+				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_desolator"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_assault"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_vanguard"
+				"item"		"item_hood_of_defiance"
+				"item"		"item_crimson_guard"
+				"item"		"item_pipe"
+				"item"		"item_heavens_halberd"
+				"item"		"item_radiance"
+				"item"		"item_solar_crest"
+				"item"		"item_ancient_janggo"
+				"item"		"item_heart"
+				"item"		"item_shivas_guard"
+			}
+			"BASIC ITEMS"
+			{
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+				"item"		"item_clarity"
+				"item"		"item_infused_raindrop"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_quelling_blade"		"Quelling blade will make it easier to last hit which will enable your laning stage."
+			"item_magic_stick"		"Get stick if at least one of the enemy heroes in lane uses spells every 30 seconds."
+			"item_soul_ring"		"Soul Ring enables your laning stage even further. Use it before using your active spells to push the lane or harass your enemies. After you get Vladmir’s, you instantly get back the health you lose when you use God's Rebuke."
+			"item_phase_boots"		"This item will enable your lane aggression and you will be able to force your enemy out of lane. Play aggressive when you have your cooldowns and punish the enemy when they are out of position."
+			"item_magic_wand"		"Magic Wand is situational but generally very good since you want to constantly fight. Often helps you turn around dire situations."
+			"item_vladmir"		"A great utility item for yourself and your team. Works amazingly well with God's Rebuke since it will heal a large portion of the health you're missing."
+			"item_vanguard"		"A good utility item for yourself which you can upgrade into Crimson guard for your team and for your teamfight capabilities."
+			"item_crimson_guard"		"After you get this item group up with your team and take teamfights. You can easily win at this point if you take advantage of the item by being your team's frontliner."
+			"item_hood_of_defiance"		"Can be situationally bought before Vanguard if the main sources of damage on the enemy team are magic. Upgrade into Pipe to further increase your teamfight potential and help your team with further utility."
+			"item_pipe"		"A great teamfighting item which enables you and your team against heavy magic damage enemies."
+			"item_blink"		"Blink in and use Arena of Blood and then follow up with Spear of Mars to stun and focus certain enemy heroes. Good for both initiation and escape. Since you can push lanes very fast with God's Rebuke it's a good way to get in and out of certain situations."
+			"item_radiance"		"Get Radiance if you want to get more damage for your team and you're far ahead."
+			"item_heavens_halberd"		"A great item against heavy physical damage heroes like Ursa, Juggernaut, Phantom Assassin, etc. Since you're the frontliner of your team you benefit from the miss chance and the disarm."
+			"item_solar_crest"		"Usually can be bought if your team wants to play very fast and do Roshan early and nobody else can buy the item. Further enables your tankiness and frontlining."
+			"item_assault"		"Can be bought as your last item against line-ups that are mostly physical damage. A great utility item for your team that also weakens your enemies."
+			"item_ancient_janggo"		"If you want to play fast and gank around the map, get Drum before Vladmir’s and follow up after Vladmir’s with Medallion. If you do this, you want to end the game around the 20-25 minutes mark."
+			"item_heart"		"Enables your tankiness and frontlining. An item that you would get when you're very ahead, I would say."
+			"item_shivas_guard"		"Against certain heroes and in certain scenarios it's a great item: against heroes with illusions and against heroes whose main damage source is physical attacks. 
+Also, it further improves your tankiness and allows you to frontline for your team.
+"
+			"item_rod_of_atos"		"Situationally can replace Blink Dagger or be bought after Vladmir’s if you need more catch/lockdown."
+			"item_desolator"		"Can be situationally bought after Vladmir’s if your team needs more damage."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"mars_spear"
+			"2"		"mars_gods_rebuke"
+			"3"		"mars_spear"
+			"4"		"mars_bulwark"
+			"5"		"mars_spear"
+			"6"		"mars_arena_of_blood"
+			"7"		"mars_spear"
+			"8"		"mars_gods_rebuke"
+			"9"		"mars_gods_rebuke"
+			"10"		"special_bonus_strength_8"
+			"11"		"mars_gods_rebuke"
+			"12"		"mars_arena_of_blood"
+			"13"		"mars_bulwark"
+			"14"		"mars_bulwark"
+			"15"		"special_bonus_armor_8"
+			"16"		"mars_bulwark"
+			"18"		"mars_arena_of_blood"
+			"20"		"special_bonus_unique_mars_spear_stun_duration"
+			"25"		"special_bonus_unique_mars_arena_of_blood_hp_regen"
+		}
+		"AbilityTooltips"
+		{
+			"mars_spear"		"Do not forget that the position of the enemy when you Spear of Mars is important. Stunning the enemy after you hit the spear is often decisive.
+
+Spear of Mars into God's Rebuke at max level can kill waves instantly (Soul Ring is a great item to do it consistently).
+"
+			"mars_gods_rebuke"		"Combined with Vladmir's Offering you can farm stacks of ancients or neutrals. You can push lanes as well if you combine it with Spear of Mars to increase your efficiency.
+
+Adds 40% slow."
+			"mars_bulwark"		"Bulwark can now be toggled on, putting your weapon away and causing the direction you're facing to be locked. Your movement speed will be 20% slower while in this mode and 70% of attack projectiles will be redirected towards you instead of your allies. Only affects attack projectiles that are within your shield block angles and within 800 range from the attacker."
+			"mars_arena_of_blood"		"A great item that can be combined with Spear of Mars (the spear latches onto the walls of the Arena). You can also push enemies into the walls with God's Rebuke.
+
+Blink Dagger is a great item to make sure you catch multiple enemies.
+
+Works very well with Heroes like Keeper of the Light, Dark Willow and generally any hero that has  AoE damage.
+"
+			"special_bonus_strength_8"		"Further Enables your tankiness and damage."
+			"special_bonus_armor_8"		"Your main source of damage is from your spells so being tanky will allow you to deal more damage."
+			"special_bonus_unique_mars_spear_stun_duration"		"Spear of Mars combined with Arena of Blood or even just latching your enemies on trees or buildings will almost always mean a kill considering the amount of time they are stunned."
+			"special_bonus_unique_mars_arena_of_blood_hp_regen"		"Further enables your teamfighting abilities, makes it very hard for you to lose a teamfight inside the Arena of Blood."
+			"special_bonus_movement_speed_20"		"Further Enables your tankiness and damage."
+		}
+	}
+}
+ 

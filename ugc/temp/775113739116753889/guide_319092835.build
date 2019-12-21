@@ -1,0 +1,167 @@
+"guidedata"
+{
+	"Hero"		"bloodseeker"
+	"Title"		"Standard Rivalry.com (Radiance) Build"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"105"
+	"AssociatedWorkshopItemID"		"0x000000001304F863"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50C0B"
+	"TimePublished"		"0x000000005DF50C0B"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+			}
+			"Sponsored by Rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"Early Game"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_boots"
+			}
+			"Core Items (Safe Lane)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_ancient_janggo"
+				"item"		"item_radiance"
+				"item"		"item_black_king_bar"
+			}
+			"Situational Items"
+			{
+				"item"		"item_blade_mail"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_cyclone"
+				"item"		"item_sphere"
+				"item"		"item_silver_edge"
+			}
+			"Extension Items"
+			{
+				"item"		"item_monkey_king_bar"
+				"item"		"item_nullifier"
+				"item"		"item_satanic"
+				"item"		"item_mjollnir"
+				"item"		"item_abyssal_blade"
+				"item"		"item_butterfly"
+			}
+			"Neutral Items"
+			{
+				"item"		"item_poor_mans_shield"
+				"item"		"item_iron_talon"
+				"item"		"item_broom_handle"
+				"item"		"item_vampire_fangs"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_imp_claw"
+				"item"		"item_dragon_scale"
+				"item"		"item_spider_legs"
+				"item"		"item_paladin_sword"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_mind_breaker"
+				"item"		"item_ninja_gear"
+				"item"		"item_panic_button"
+				"item"		"item_the_leveller"
+				"item"		"item_minotaur_horn"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_tango"		"Just in case you couldn't snag those last hits needed for Blood Bath to activate."
+			"item_hand_of_midas"		"Hand of Midas is valuable only if you know the game will go late and you can take advantage of that with early-levels and faster farm."
+			"item_cyclone"		"Eul's Scepter of Divinity keeps your movement speed up, your combination with Blood Rite perfect and interrupts foes who try to teleport away from your ultimate: Rupture.
+
+In many cases, Eul's Scepter is right up your alley but it is a deviation from your core items and role."
+			"item_black_king_bar"		"The one thing all Bloodseeker players fear is missing that kill to regain their life. Black King Bar gives you some strength, damage and the ability to dish out damage without fear of missing the kill due to a stun or disable!"
+			"item_blade_mail"		"As Bloodseeker, you're one of the first in on ganks and sometimes the most vulnerable. Blademail reverses that and causes worry among fleeing foes.
+
+Cast Bloodrage on enemies when they attack you with Blade Mail on to ensure they take more damage."
+			"item_radiance"		"Radiance causes misses on all enemies heroes. The damage is especially liked on Bloodseeker and with everyone's health being reduced, you can definitely push for Radiance and then take advantage of the low health to get multi-kills while evading most attacks."
+			"item_silver_edge"		"Get Silver Edge if initiating onto enemies is very difficult. With it, you can target enemies with strong passive abilities that make their attacks or resistance too durable to directly fight them."
+			"item_sange_and_yasha"		"Sange and Yasha doubles-down on what Bloodseeker does best by allowing you to move fast, slow further and hit harder. An all-around great item if you feel like you're overwhelmed by your enemies' team."
+			"item_mjollnir"		"With the additional attack speed of Mjollnir in addition to chain lightning, your damage output will destroy heavy minion and illusion line-ups. 
+
+Mjollnir is great when if you need attack speed to get you started, as Thirst won't always be activated until a fight starts out."
+			"item_orb_of_venom"		"Orb of Venom early-on to be able to last-hit and harass foes; lowering their health and giving you further damage and movement speed thanks to your passive ability: Thirst."
+			"item_abyssal_blade"		"Finish up your Basher with Abyssal Blade. This is a late-game item to circumvent invincibility such as Black King Bar. Get this when you find yourself having no more slots for future items.
+
+The disable and extra Bash damage should help with maximizing your Bloodrage duration."
+			"item_sphere"		"Consider Linken's Sphere if specific ultimate, target abilities like stuns and silences are keeping you down. This should be seen different as Black King Bar because it will waste ultimate abilities on you like Doom's Doom or Necrophos' Reaper Scythe from completely killing/disabling you."
+			"item_nullifier"		"Nullifier amplifies your damage and mutes enemies, preventing them from using their items.
+
+Each attack when Nullifier is activated on an enemy will cut their movement speed momentarily - making it harder for them to escape.
+
+Especially useful against BKB users."
+			"item_butterfly"		"Butterfly not only adds to your armour via your specialized attribute (AGI), but it also allows you to dodge attacks."
+			"item_phase_boots"		"Phase Boots provides you with the additional movement speed to close in on foes you've initiated on or to weave through creeps that may get in your way. The extra damage and armor can sometimes serve better short-term than the value of Power Treads late-game."
+			"item_satanic"		"Satanic combined with Radiance means you'll be able to survive longer, deal more damage with Radiance and heal large portions of health regardless if you kill someone or not.
+
+Try and activate Black King Bar while using Satanic to ensure you can dish the damage during its effect without being interrupted."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"bloodseeker_blood_bath"
+			"2"		"bloodseeker_thirst"
+			"3"		"bloodseeker_thirst"
+			"4"		"bloodseeker_bloodrage"
+			"5"		"bloodseeker_thirst"
+			"6"		"bloodseeker_rupture"
+			"7"		"bloodseeker_thirst"
+			"8"		"bloodseeker_blood_bath"
+			"9"		"bloodseeker_blood_bath"
+			"10"		"special_bonus_attack_speed_25"
+			"11"		"bloodseeker_blood_bath"
+			"12"		"bloodseeker_rupture"
+			"13"		"bloodseeker_bloodrage"
+			"14"		"bloodseeker_bloodrage"
+			"15"		"special_bonus_hp_275"
+			"16"		"bloodseeker_bloodrage"
+			"18"		"bloodseeker_rupture"
+			"20"		"special_bonus_unique_bloodseeker_3"
+			"25"		"special_bonus_unique_bloodseeker"
+		}
+		"AbilityTooltips"
+		{
+			"bloodseeker_bloodrage"		"Bloodrage earlier on can be used on yourself to help with your last-hitting and regeneration of life. The cooldown is quite low and costs 0 mana.
+
+In the later levels, you can cast this on the attacker and the target to amplify damage taken/dealt and chance of healing.
+
+Bloodrage amplifies all types of damage taken/dealt."
+			"bloodseeker_blood_bath"		"Blood Rite is an incredible nuke that works in combination with your ultimate: Rupture. Open with Rupture then Blood rite to ensure all damage is both taken. Bloodrage should be your follow-up or if you can cast it before Blood Rite pops."
+			"bloodseeker_thirst"		"Thirst is your damage output. The longer a fight is going and the more damage dealt to enemies; the faster you attack and move.
+
+Provides True Sight if unit is below 25% health."
+			"bloodseeker_rupture"		"Use Rupture to keep opponents' still where you know your team will be able to reach them.
+
+1. Target an enemy with Rupture
+2. Activate Bloodrage on yourself
+3. Use Blood Rite to nuke and entrap the target
+
+Works on enemies using Black King Bar or are magic immune. Lethal if enemy keeps moving."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}
+ 

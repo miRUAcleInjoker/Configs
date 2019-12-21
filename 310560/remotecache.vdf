@@ -1,0 +1,27 @@
+"310560"
+{
+	"savegame@profile#QKIGMYYI.LKR"
+	{
+		"root"		"0"
+		"size"		"2097152"
+		"localtime"		"1567243369"
+		"time"		"1567243366"
+		"remotetime"		"1567243366"
+		"sha"		"a93462aaac367268f9ab29e24bfc09c371a86f50"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"savegame@profile#QKRHMYXE"
+	{
+		"root"		"0"
+		"size"		"416"
+		"localtime"		"1567243369"
+		"time"		"1567243366"
+		"remotetime"		"1567243366"
+		"sha"		"037dfce9c13106dd8cb85f8fff566572008a9737"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

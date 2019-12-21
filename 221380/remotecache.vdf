@@ -1,0 +1,39 @@
+"221380"
+{
+	"Profiles/Player.nfp"
+	{
+		"root"		"1"
+		"size"		"773"
+		"localtime"		"1560087478"
+		"time"		"1560087477"
+		"remotetime"		"1560087477"
+		"sha"		"86f48331a8ae71200bfde54b1e08bd237794767c"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SaveGame/test.aoe2spgame"
+	{
+		"root"		"1"
+		"size"		"193767"
+		"localtime"		"1560079755"
+		"time"		"1560079753"
+		"remotetime"		"1560079753"
+		"sha"		"a677a62b4a05c3a974c17a91b0c56857843f54e2"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"SaveGame/multi/浜旀湀鏄ぉ's Game-30b989dc-4f1d-423a-8c9479d6a72ab0d1.aoe2mpgame"
+	{
+		"root"		"1"
+		"size"		"417534"
+		"localtime"		"1560086886"
+		"time"		"1560086885"
+		"remotetime"		"1560086885"
+		"sha"		"e6b50f7755685a00fce843155ba6b3237b99b764"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

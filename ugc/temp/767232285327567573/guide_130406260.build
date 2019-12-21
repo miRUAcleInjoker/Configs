@@ -1,0 +1,147 @@
+"guidedata"
+{
+	"Hero"		"lina"
+	"Title"		"Lina Mid - Oh, that's hot!"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"My favorite way of playing Lina is mid-game dominator build. Lina was not considered a great mid mainly because of her slow attack animation, but if you learn the timing you can mitigate that to a great extent. Other than that, she is the one of the best midlaners in my opinion.
+Start with stat items. Harass your opponent using 670 attack range, push out the wave with Dragon Slave before the rune spawns. You can also last hit with Q, while also harassing the enemy(1275 hit range helps with that), just line up the skill properly. Try to control runes to the max. After Nulls, Bottle and Botts, you should be getting Euls and Kaya&Sange. Both those items help your spellcasting a lot, but also synergize with your passive and allow you to run at 500+MS constantly. Boots upgrade is sutuational: Phase, Travel or Tranquil.
+After that, you should be getting items based on the situation.  Blink synergises well with Eul's, but leaves you a bit squishy. Many times BKB is a must have, so is Aghs when enemies have magic resistance or BKB carriers.
+Closer to late-game you can adjust your build into semi-carry by getting Bloodthorne, Daedalus, Mjollnir, Desolator or Skadi. Your passive, which gives up to 375 free attack speed, and 1.6 BAT will help a lot with that."
+	"GuideRevision"		"129"
+	"AssociatedWorkshopItemID"		"0x0000000007C5D774"
+	"OriginalCreatorID"		"0x00000000013FD7A9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF56AAB"
+	"TimePublished"		"0x000000005DF56AAB"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_mantle"
+				"item"		"item_faerie_fire"
+				"item"		"item_circlet"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_ward_observer"
+			}
+			"Early game"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
+				"item"		"item_bottle"
+				"item"		"item_clarity"
+				"item"		"item_wind_lace"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"Core "
+			{
+				"item"		"item_cyclone"
+				"item"		"item_bloodstone"
+				"item"		"item_travel_boots"
+			}
+			"Situational"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_aether_lens"
+				"item"		"item_blink"
+				"item"		"item_sheepstick"
+				"item"		"item_sphere"
+				"item"		"item_shivas_guard"
+				"item"		"item_silver_edge"
+				"item"		"item_aeon_disk"
+				"item"		"item_yasha_and_kaya"
+			}
+			"Semi-carry in late"
+			{
+				"item"		"item_travel_boots_2"
+				"item"		"item_black_king_bar"
+				"item"		"item_bloodthorn"
+				"item"		"item_greater_crit"
+				"item"		"item_skadi"
+				"item"		"item_mjollnir"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_desolator"
+				"item"		"item_hurricane_pike"
+				"item"		"item_nullifier"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Lina's stun can be hard to land versus a wary opponent. You need to surprise your enemies by blinking into stun range. Also, it helps with general positioning, chasing and escaping. Great synergy with Eul's."
+			"item_wind_lace"		"Always try to have this in the early game, especially if maxing passive over stun."
+			"item_magic_wand"		"One of the most cost-efficient items in the game."
+			"item_bottle"		"This is your bread and butter early game. Ask your support to ward one rune, so you can refill your charges. In pub games, sometimes you are gonna have to ward runes yourself."
+			"item_phase_boots"		"Item got nerfed pretty hard for Lina in 7.20-7.21. Brown boots are more effective now, get only if needing cheap armor."
+			"item_null_talisman"		"This item is very cost effective and synergises great with Lina's attack speed passive.  Great for harrassing with Lina's amazing 670 attack range. "
+			"item_sheepstick"		"When enemies have overfarmed carry(ies), this is the best answer. Very good stats and mana regen too, plus you can initiate on heros before they BKB."
+			"item_orchid"		"Amazing item for an int semi-carry: a lot dps, mana regen and a damaging silence. If you don't really need a hard disable, this is more cost-efficient than Hex."
+			"item_bloodthorn"		"The most cost-effective item for an int-carry. Get it if you're ahead and the game doesn't dictate another clear choice."
+			"item_cyclone"		"Just must have for stun setup, mana regen and mobility."
+			"item_ultimate_scepter"		"A lot of stats. A lot of HP/Mana. Get this to kill BKB carriers and magic resistant heroes."
+			"item_black_king_bar"		"In case you're getting shut down by disables, and you really need to carry."
+			"item_bloodstone"		"Looks like it's a must have in 7.23, especially if you are doing well early."
+			"item_monkey_king_bar"		"When you face evasion heros or items, this is a must-have. Fiery Soul will guarantee mini-bash procs."
+			"item_greater_crit"		"Get this when your team is lacking straight right-click damage."
+			"item_mjollnir"		"Very good vs illusion heros, mass necros etc. Lightning procs work good with Fiery Soul."
+			"item_skadi"		"When you are getting focused really hard, stats is always a good answer. Cold Attack goes through Spell Immunity and lets you kite melee heroes."
+			"item_arcane_boots"		"Only get this if you're going for Aether Lens."
+			"item_silver_edge"		"Get this in case disabling passives is a priority."
+			"item_yasha_and_kaya"		"This item in a must have on Lina because it makes you mana independent with constant Fiery Soul, run at 500+ MS and cast stronger nukes.
+In 7.23 replaced as core by Bloodstone. Get this if BS is too late."
+			"item_nullifier"		"Use in tandem with Orchid/Bloodthorn to shut down a single target"
+			"item_boots"		"With Phase being situational after nerfs, brown boots just might be better."
+			"item_tranquil_boots"		"Great synergy with Euls's and K&Y. More speed increase than active Phase and much cheaper. Get this when not needing cheap armor, but early Travels are too difficult."
+			"item_travel_boots"		"Now that this item works with TP scroll, sometimes its viable to get it early. Great synergy with Euls's and K&Y, sometimes get BoT right after those."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"lina_dragon_slave"
+			"2"		"lina_fiery_soul"
+			"3"		"lina_dragon_slave"
+			"4"		"lina_light_strike_array"
+			"5"		"lina_dragon_slave"
+			"6"		"lina_laguna_blade"
+			"7"		"lina_dragon_slave"
+			"8"		"lina_fiery_soul"
+			"9"		"lina_fiery_soul"
+			"10"		"special_bonus_attack_damage_35"
+			"11"		"lina_fiery_soul"
+			"12"		"lina_laguna_blade"
+			"13"		"lina_light_strike_array"
+			"14"		"lina_light_strike_array"
+			"15"		"special_bonus_hp_350"
+			"16"		"lina_light_strike_array"
+			"18"		"lina_laguna_blade"
+			"20"		"special_bonus_spell_amplify_14"
+			"25"		"special_bonus_attack_range_175"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_attack_damage_20"		"This talent is also a viable option, especially if you are still going for Aether Lens."
+			"special_bonus_mp_250"		"First 2 talents can replace Aether Lens and free up your money and an item slot."
+			"lina_dragon_slave"		"Looks easy on paper, but there's a trick to this ability. You can only cast it at 800 range, but it travels considerably farther - 1275. You can score amazing long range finishes with this once you master it."
+			"lina_light_strike_array"		"Get into position and stun. Predict enemies' movement. Learn the animation and delay timing. Very hard to master but this is the difference between good and bad Lina."
+			"lina_fiery_soul"		"Simply amazing passive. Very important to take 1 point of this early game. Usually I prefer to max this before W, especially if going for Phase Boots."
+			"lina_laguna_blade"		"Your signature ability. Always try to check the HP levels of enemies before using. You deal pure damage through magic immunity with Aghs, so don't mind magic resistance and BKBs. Before getting Aghs, you deal 337/487/637 dmg(+amp%) after natural 25% magic resistance."
+			"special_bonus_unique_lina_2"		"If you don't have Aghs and/or your team needs more physical damage."
+			"special_bonus_cast_range_100"		"In this build with priority into E, you can't really go into cast range at level 10."
+			"special_bonus_hp_300"		"Level 15 talent is not a clear choice. Most of the time you should opt for a safer \"+ Health\" one."
+			"special_bonus_unique_lina_3"		"Level 15 talent is not a clear choice. You can get this one if you have a tanky item or don't expect a lot of focus on yourself."
+			"special_bonus_attack_range_175"		"Most of the time for a core Lina, this is a clear choice."
+			"special_bonus_hp_350"		"Level 15 talent is not a clear choice. Health if the safer option, get it if the game doesn't dictate the opposite."
+			"special_bonus_attack_damage_30"		"If you max E before W - get Damage.  If you max W before E - get Cast Range."
+			"special_bonus_cast_range_125"		"If you max E before W - get Damage.  If you max W before E - get Cast Range."
+			"special_bonus_spell_amplify_12"		"If you have Aghs and need to blow up someone with pure damage (Anti-Mage etc.), consider this talent. "
+			"special_bonus_spell_amplify_14"		"If you have Aghs and need to kill thru heavy magic resist/BKBs."
+			"special_bonus_unique_lina_1"		"If you need to spam out waves of creeps, illusions and summons"
+		}
+	}
+}
+ 

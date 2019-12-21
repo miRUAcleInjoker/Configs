@@ -1,0 +1,63 @@
+"391220"
+{
+	"croftmanor.dat"
+	{
+		"root"		"0"
+		"size"		"61420"
+		"localtime"		"1484301341"
+		"time"		"1484301339"
+		"remotetime"		"1484301339"
+		"sha"		"ba22b2b978b25b27605bedd7795e90daedd3311a"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"lastauto.dat"
+	{
+		"root"		"0"
+		"size"		"1043489"
+		"localtime"		"1552064441"
+		"time"		"1552064441"
+		"remotetime"		"1552064441"
+		"sha"		"81f414b8ef1b11a88a42d73353c5abea41eecef3"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"lastbackup.dat"
+	{
+		"root"		"0"
+		"size"		"1043347"
+		"localtime"		"1552064205"
+		"time"		"1552064205"
+		"remotetime"		"1552064205"
+		"sha"		"9b56d8b868204180dcfa07236bb932249f48e916"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"lastcamp.dat"
+	{
+		"root"		"0"
+		"size"		"1043181"
+		"localtime"		"1552064205"
+		"time"		"1552064205"
+		"remotetime"		"1552064205"
+		"sha"		"7fee3a5d69c2ef5c2cb79beb3aad60bef556598c"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"profile.dat"
+	{
+		"root"		"0"
+		"size"		"735"
+		"localtime"		"1552064217"
+		"time"		"1552064217"
+		"remotetime"		"1552064217"
+		"sha"		"8ee35f0e64c8248471a4059c654a2e1c709de4b4"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

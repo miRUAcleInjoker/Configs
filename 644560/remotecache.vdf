@@ -1,0 +1,27 @@
+"644560"
+{
+	"save/game.db"
+	{
+		"root"		"1"
+		"size"		"1629"
+		"localtime"		"1567181570"
+		"time"		"1567181568"
+		"remotetime"		"1564161225"
+		"sha"		"fbe23bd6feec50f4aa65300cb7a34972ae210613"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"save/Save1.db"
+	{
+		"root"		"1"
+		"size"		"6999"
+		"localtime"		"1567181608"
+		"time"		"1567181606"
+		"remotetime"		"1567181606"
+		"sha"		"8674158e04d4b70aef6cd8ebb6c83297fc65c987"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

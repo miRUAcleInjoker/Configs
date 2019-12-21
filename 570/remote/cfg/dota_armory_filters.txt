@@ -1,0 +1,21 @@
+"ArmoryFilters"
+{
+	"天怒"
+	{
+		"1"
+		{
+			"Field"		"RarityBitfield"
+			"Op"		"="
+			"Value"		"128"
+		}
+	}
+	" "
+	{
+		"1"
+		{
+			"Field"		"RarityBitfield"
+			"Op"		"="
+			"Value"		"128"
+		}
+	}
+}

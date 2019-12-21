@@ -1,0 +1,10 @@
+"config"
+{
+	"bindings"
+	{
+		"\"		"<unbound>"
+		"F10"		"<unbound>"
+		"SPACE"		"+dota_camera_follow"
+		"F11"		"toggleconsole"
+	}
+}

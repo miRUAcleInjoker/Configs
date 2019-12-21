@@ -1,0 +1,170 @@
+"guidedata"
+{
+	"Hero"		"life_stealer"
+	"Title"		"Standard Rivalry.com Build"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"89"
+	"AssociatedWorkshopItemID"		"0x000000000DD9A4DF"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50C6A"
+	"TimePublished"		"0x000000005DF50C6A"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_orb_of_venom"
+				"item"		"item_quelling_blade"
+			}
+			"Sponsored by Rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"early game"
+			{
+				"item"		"item_boots"
+			}
+			"core items (safe Lane)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_armlet"
+				"item"		"item_mjollnir"
+			}
+			"core Items (Radiance)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_hand_of_midas"
+				"item"		"item_armlet"
+				"item"		"item_radiance"
+				"item"		"item_heavens_halberd"
+			}
+			"utility Items"
+			{
+				"item"		"item_tpscroll"
+			}
+			"situational items"
+			{
+				"item"		"item_ancient_janggo"
+				"item"		"item_desolator"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_solar_crest"
+				"item"		"item_sphere"
+				"item"		"item_silver_edge"
+			}
+			"extension items"
+			{
+				"item"		"item_monkey_king_bar"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_nullifier"
+				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_skadi"
+			}
+			"Neutral Items"
+			{
+				"item"		"item_poor_mans_shield"
+				"item"		"item_iron_talon"
+				"item"		"item_broom_handle"
+				"item"		"item_vampire_fangs"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_imp_claw"
+				"item"		"item_dragon_scale"
+				"item"		"item_spider_legs"
+				"item"		"item_paladin_sword"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_mind_breaker"
+				"item"		"item_ninja_gear"
+				"item"		"item_illusionsts_cape"
+				"item"		"item_panic_button"
+				"item"		"item_the_leveller"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_tango"		"These Tangos are needed in case harassment gets heavy, in general; they are just a back-up."
+			"item_tpscroll"		"Activate your Rage before teleporting away. You should have just enough duration to escape if you pull it off right."
+			"item_hand_of_midas"		"Being in lane means you don't need this item, some prefer it; it's not necessarily bad. Just preferably unneeded given how your GPM is much more consistent and higher in-lane."
+			"item_assault"		"If at an disadvantage or taking more damage than you can handle, the increased armor from Cuirass will help you greatly. Generally, this is the extension item because of the desired armor and the aura it offers for the team."
+			"item_armlet"		"Armlet is a core item as its downside (losing incremental health) is mitigated by your Feast ability. The bonuses work very well towards Lifestealer's goals (more damage and more attack speed) but also improves his health pool to survive longer, lifesteal more."
+			"item_sange_and_yasha"		"Sange and Yasha gives Lifestealer the extra movement speed he needs but also the maim effect that helps keeps foes slowed and having difficulty fighting against Lifestealer."
+			"item_desolator"		"Desolator is a cheap way to improve your damage and tear down foes for massive lifesteal return. Lifestealer wants to play his mid-game advantage and skills as much as possible and Desolator improves his damage if your team can ensure the disables."
+			"item_abyssal_blade"		"Abyssal Blade will pretty much cement your damage while also offering a way to cripple rivaling enemy carries. With Abyssal Blade, you can tear down foes, lifesteal all their life and subsequently break down team fights in your favour."
+			"item_silver_edge"		"Get Silver Edge if initiating onto enemies is very difficult. With it, you can target enemies with strong passive abilities that make their attacks or resistance too durable to directly fight them."
+			"item_sphere"		"Consider Linken's Sphere if specific ultimate, target abilities like stuns and silences are keeping you down. This should be seen different as Black King Bar because it will waste ultimate abilities on you like Doom's Doom or Necrophos' Reaper Scythe from completely killing/disabling you."
+			"item_nullifier"		"Nullifier amplifies your damage and mutes enemies, preventing them from using their items.
+
+Each attack when Nullifier is activated on an enemy will cut their movement speed momentarily - making it harder for them to escape.
+
+Especially useful against BKB users."
+			"item_radiance"		"Radiance combined with Solar Crest as well as Lifestealer's Evasion talent gives you an incredible amount of avoidance of physical attacks while also being able to be an annoying presence in fights thanks to your high-damage, good attack speed and burning Radiance + Solar Crest debuff."
+			"item_solar_crest"		"Radiance combined with Solar Crest as well as Lifestealer's Evasion talent gives you an incredible amount of avoidance of physical attacks while also being able to be an annoying presence in fights thanks to your high-damage, good attack speed and burning Radiance + Solar Crest debuff."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"life_stealer_feast"
+			"2"		"life_stealer_open_wounds"
+			"3"		"life_stealer_rage"
+			"4"		"life_stealer_feast"
+			"5"		"life_stealer_feast"
+			"6"		"life_stealer_infest"
+			"7"		"life_stealer_feast"
+			"8"		"life_stealer_rage"
+			"9"		"life_stealer_rage"
+			"10"		"special_bonus_attack_speed_30"
+			"11"		"life_stealer_rage"
+			"12"		"life_stealer_infest"
+			"13"		"life_stealer_open_wounds"
+			"14"		"life_stealer_open_wounds"
+			"15"		"special_bonus_attack_damage_30"
+			"16"		"life_stealer_open_wounds"
+			"18"		"life_stealer_infest"
+			"20"		"special_bonus_evasion_20"
+			"25"		"special_bonus_unique_lifestealer"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_evasion_15"		"The movement speed talent perk means less trouble in getting kited. If you know your target cannot escape or out-run you, you can prefer the evasion talent instead where chasing foes and fighting in team-fights can become more comfortable."
+			"special_bonus_hp_250"		"The health means more value in your lifesteal and improved healthpool to avoid being nuked out of orbit. However, the damage provided is also a solid alternative if you know you will be on the offensive for guaranteed ganked kills as well as a bit behind your farm or damage."
+			"special_bonus_attack_damage_25"		"The health means more value in your lifesteal and improved healthpool to avoid being nuked out of orbit. However, the damage provided is also a solid alternative if you know you will be on the offensive for guaranteed ganked kills as well as a bit behind your farm or damage."
+			"special_bonus_all_stats_5"		"While the attack speed can seem more attractive, especially given the amount of damage Lifestealer outputs early on. But the stats has a versatility to offer that can alleviate some of other problems Lifestealer may have such as a bigger mana-pool and improved armour (AGI)"
+			"special_bonus_movement_speed_25"		"The movement speed talent perk means less trouble in getting kited. If you know your target cannot escape or out-run you, you can prefer the evasion talent instead where chasing foes and fighting in team-fights can become more comfortable."
+			"special_bonus_hp_200"		"The health means more value in your lifesteal and improved healthpool to avoid being nuked out of orbit. However, the damage provided is also a solid alternative if you know you will be on the offensive for guaranteed ganked kills as well as a bit behind your farm or damage."
+			"special_bonus_attack_speed_15"		"While the attack speed can seem more attractive, especially given the amount of damage Lifestealer outputs early on. But the stats has a versatility to offer that can alleviate some of other problems Lifestealer may have such as a bigger mana-pool and improved armour (AGI)"
+			"life_stealer_rage"		"Rage works similarly as Black King Bar, meaning no one can target you when you are in Rage form. Take advantage of this moment to really tear down opponents as it does increase your attack speed greatly!
+
+You can also use this to safely teleport out if you have the mana for it."
+			"life_stealer_feast"		"Unlike traditional lifesteal, Feast is not dependent on your damage output but reliant on the target's max health.
+
+This ability is especially useful to help sustain yourself in the laning phase but also against high-health tanky targets."
+			"life_stealer_open_wounds"		"This is your slow, the more levels; the more range it gets. During the early levels; you'll need someone to disable first:
+
+1. Use Infest to get near an enemy either with an initiator or creep.
+2. Eject and follow-up with Open Wounds
+3. Use Rage when necessary to get out of slows, prevent stuns"
+			"life_stealer_infest"		"Feel free to use this ability to further farming (grants gold towards whatever unit you kill). You can heal while inside of a unit for as long as you stay inside.
+
+Infest enemy units or Ancients to take control of them and either further your escape or simply to take advantage of their capabilities."
+			"life_stealer_control"		"Use this in combination with units that give you movement advantage of a unique abilities that immobilize your foes. Using this to control an Ancient creep can mean comfortable pushes or additional ability to flash-farm depending on the Ancient Creep."
+			"life_stealer_consume"		"When in this position, you cannot lose health from activating Armlet BEFORE-HAND."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}
+ 

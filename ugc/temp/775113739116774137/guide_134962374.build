@@ -1,0 +1,182 @@
+"guidedata"
+{
+	"Hero"		"bristleback"
+	"Title"		"Standard Rivalry.com Build"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"92"
+	"AssociatedWorkshopItemID"		"0x00000000080B5CC6"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50C13"
+	"TimePublished"		"0x000000005DF50C13"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_ward_observer"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_quelling_blade"
+			}
+			"Sponsored by Rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_soul_ring"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"Core Items (Offlane)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_vanguard"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_infused_raindrop"
+				"item"		"item_hood_of_defiance"
+				"item"		"item_black_king_bar"
+				"item"		"item_lotus_orb"
+			}
+			"Extension - Defensive"
+			{
+				"item"		"item_blade_mail"
+				"item"		"item_heavens_halberd"
+				"item"		"item_pipe"
+				"item"		"item_crimson_guard"
+				"item"		"item_shivas_guard"
+				"item"		"item_heart"
+			}
+			"Extension Items - Offensive"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_radiance"
+				"item"		"item_assault"
+				"item"		"item_octarine_core"
+				"item"		"item_abyssal_blade"
+			}
+			"Neutral Items"
+			{
+				"item"		"item_poor_mans_shield"
+				"item"		"item_iron_talon"
+				"item"		"item_faded_broach"
+				"item"		"item_dragon_scale"
+				"item"		"item_essence_ring"
+				"item"		"item_helm_of_the_undying"
+				"item"		"item_craggy_coat"
+				"item"		"item_quickening_charm"
+				"item"		"item_spider_legs"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_titan_sliver"
+				"item"		"item_witless_shako"
+				"item"		"item_spell_prism"
+				"item"		"item_panic_button"
+				"item"		"item_minotaur_horn"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_infused_raindrop"		"Infused Raindrop gives the necessary mana regeneration you need as Bristleback throughout the earlier part of the game.
+
+But it also prevents any early ganks or follow-through harassment thanks to block magic damage.
+
+Purchase several these if necessary whenever you need it."
+			"item_pipe"		"Pipe of Insight is also a very good item depending on the enemy line-up. Enemy nukers should be wary knowing you have this for your team. Though Lotus Orb is especially key for specific match-ups, Pipe of Insight offers a better utility in terms of buffs for teammates and team-fight line-ups."
+			"item_assault"		"Ultimately, Bristleback hits hard and moves fast thanks to his ultimate; but his attack speed leaves much to be desired. Assault Cuirass checks all the boxes that Bristleback wants: Armour, debuff aura and attack speed."
+			"item_heart"		"Heart of Tarrasque is without a doubt one of the best items for Bristleback. Damage should be a priority this late into the game, which Heart of Tarrasque offers up in turn of Strength."
+			"item_shivas_guard"		"Mixed with Octarine Core, your presence with Shiva's Guard can be an annoyance for enemies."
+			"item_vanguard"		"Vanguard on Bristleback mitigates damage taken as well as improves his overall health and damage block, giving Bristleback incredible survival skills for his passive and Quill Spray to occur.
+
+His inherent tankiness mixed with damage block makes him incredible early on."
+			"item_crimson_guard"		"Crimson Guard is a great item for Bristleback in team-fights. Especially if he can't keep up with the enemy's physical carry's damage output. Crimson Guard plays off in team-fights where you want to relieve the physical initial output of the enemy team and as you rev up your ultimate's stacks."
+			"item_blade_mail"		"Though it can be counter-intuitive to your tank-like abilities. Blade Mail can help mitigate even more damage, return it back to foes and keep you strutting around."
+			"item_hood_of_defiance"		"If your back is turned and you have this item. That is 55% reduced spell damage from your opponent's spells. This is a must buy.
+
+Later in the game, you can choose between purchasing Pipe of Inisght, Crimson Guard or both."
+			"item_solar_crest"		"Though Heaven's Halberd is more relevant for Bristleback given the stats, Solar Crest offers up even more armour reduction that compliment Bristleback decently. For a more team-oriented item; Solar Crest can be considered; especially if you need early mana regen."
+			"item_abyssal_blade"		"With your attack speed improved (through items like Assault Cuirass); keeping your enemies further disabled with Bash and Abyssal Blade allows Bristleback to stay on top of them, reduce their armour with Goo and stack up Quills to reduce the enemy into nothing."
+			"item_heavens_halberd"		"Evasion + Keep enemy carries down as you dive into battle. Heaven's Halberd is an underplayed item that can seriously wreck enemy's plans and keep Bristleback afloat."
+			"item_soul_ring"		"Bristleback has a lot of health and regenerates it quickly thanks to his itemization.
+
+Soul Ring can be useful if you're using your spells often for farming or being especially active in ganks early on."
+			"item_octarine_core"		"Quill Spray and Radiance (if obtained) make Octarine Core an incredibly item for a very offensive Bristleback. 
+
+Lower cooldown on your Quill spray, lifesteal from each Quill Spray hit and Radiance burn makes Bristleback difficult to kill."
+			"item_radiance"		"Radiance makes Bristleback's strong survivability and tank-like presence even more of a problem as he will cause enemies to miss their attack, punish and burn frail heroes and overall be a very powerful nuissance.
+
+Combine with Octarine Core for even more shenanagins."
+			"item_black_king_bar"		"Seldom will you need Black King Bar unless you are choosing a more offensive build and find yourself getting disabled constantly. BKB will allow you stay on your foes, spam your abilities and follow-through on your gained attack through your ultimate."
+			"item_lotus_orb"		"Lotus Orb dispels any disable that is on you or casted on an ally. Additionally, future stuns or targeted spells will reflect back to the caster.
+
+The extra armor and mana are especially appreciated by Bristleback who constantly needs survivability and a larger mana-pool."
+			"item_ultimate_scepter_2"		"Aghanim's Blessing allows you to cast your ultimate without having to target someone. This means you can build up your ultimate stacks without slowing down or needing an enemy nearby.
+
+Additionally, this Aghanim's means you can weave in and out of fights without stopping."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"bristleback_quill_spray"
+			"2"		"bristleback_bristleback"
+			"3"		"bristleback_quill_spray"
+			"4"		"bristleback_viscous_nasal_goo"
+			"5"		"bristleback_quill_spray"
+			"6"		"bristleback_warpath"
+			"7"		"bristleback_quill_spray"
+			"8"		"bristleback_bristleback"
+			"9"		"bristleback_bristleback"
+			"10"		"special_bonus_mp_regen_3"
+			"11"		"bristleback_bristleback"
+			"12"		"bristleback_warpath"
+			"13"		"bristleback_viscous_nasal_goo"
+			"14"		"bristleback_viscous_nasal_goo"
+			"15"		"special_bonus_hp_250"
+			"16"		"bristleback_viscous_nasal_goo"
+			"18"		"bristleback_warpath"
+			"20"		"special_bonus_hp_regen_25"
+			"25"		"special_bonus_spell_lifesteal_15"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_mp_regen_2"		"The extra mana regen is a safehaven for Bristleback's mana pool in view of his spammable abilities but weak mana pool during the early-game."
+			"special_bonus_hp_200"		"Extra health if you're going defensive."
+			"bristleback_viscous_nasal_goo"		"We get one level in Goo for the slow. However, your early game is all survivability and farming up those much needed core items. Use Goo to initiate on a foe:
+
+1. Spam Quill Spray to raise your movement speed via your ultimate ability
+2. When in range, Goo your chased target
+3. Spam Quill Spray to keep your Warpath stacks up"
+			"bristleback_quill_spray"		"Your core damage-dealer. Spam this to boost up your ultimate as well as to harass in lane, last-hit and everything in-between. Be careful as those with wands can take advantage of this to get stacks.
+
+Hits stealth units."
+			"bristleback_bristleback"		"Keep your back turned from foes and let them wail on you. This will reduce all damage incoming from the side/back and allow you to be the meat-shield for your allies. It's all about positioning and knowing when to turn around to kill foes and when to flee."
+			"bristleback_warpath"		"Quil Spray and Goo should help build up the stacks. 
+
+Caution that this ultimate does not work with any item abilities you cast. 
+
+So only Quill Spray and Goo will give you Warpath stacks."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_spell_lifesteal_15"		"Affected by your Quill Spray and any items that deals magic-damage like Radiance."
+		}
+	}
+}
+ 

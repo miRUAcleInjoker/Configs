@@ -1,0 +1,63 @@
+"34330"
+{
+	"userdata.bin"
+	{
+		"root"		"0"
+		"size"		"350"
+		"localtime"		"1574864092"
+		"time"		"1574864090"
+		"remotetime"		"1574864090"
+		"sha"		"211461ad684489d8e6d4134471d6d31c54ecf568"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"shogun2_2.bin"
+	{
+		"root"		"0"
+		"size"		"350"
+		"localtime"		"1574864092"
+		"time"		"1574864090"
+		"remotetime"		"1574864090"
+		"sha"		"c4cd78ae90c9ae137eb94306f09063dc01ab8912"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"boshin.bin"
+	{
+		"root"		"0"
+		"size"		"350"
+		"localtime"		"1574864092"
+		"time"		"1574864090"
+		"remotetime"		"1574864090"
+		"sha"		"bcbe144e0e1bbcc8242e67d309bb16ea2457ea6f"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"boshin_2.bin"
+	{
+		"root"		"0"
+		"size"		"350"
+		"localtime"		"1574864092"
+		"time"		"1574864090"
+		"remotetime"		"1574864090"
+		"sha"		"4a49bdcf812c1b3e5f51a7f39de76d03e9c81c90"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"avatar_0.officer.unit_variant"
+	{
+		"root"		"0"
+		"size"		"522"
+		"localtime"		"1574864821"
+		"time"		"1574864820"
+		"remotetime"		"1574864820"
+		"sha"		"5a047307c43dd5ce99971be10b4d7a3d0d759954"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

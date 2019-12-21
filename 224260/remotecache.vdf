@@ -1,0 +1,15 @@
+"224260"
+{
+	"cfg/config.cfg"
+	{
+		"root"		"0"
+		"size"		"8636"
+		"localtime"		"1558955584"
+		"time"		"1558955583"
+		"remotetime"		"1558955583"
+		"sha"		"dac729c448112ac9aedc30d57114d98fb3ec8963"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

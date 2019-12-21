@@ -1,0 +1,152 @@
+"guidedata"
+{
+	"Hero"		"skeleton_king"
+	"Title"		"Standard Rivalry.com Build"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"78"
+	"AssociatedWorkshopItemID"		"0x0000000007AF1311"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50D70"
+	"TimePublished"		"0x000000005DF50D70"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+			}
+			"sponsored by rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"early game"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"core items (safe Lane)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_hand_of_midas"
+				"item"		"item_radiance"
+			}
+			"situational items"
+			{
+				"item"		"item_blade_mail"
+				"item"		"item_armlet"
+				"item"		"item_echo_sabre"
+				"item"		"item_desolator"
+				"item"		"item_sphere"
+			}
+			"extension items"
+			{
+				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_assault"
+				"item"		"item_heart"
+				"item"		"item_mjollnir"
+				"item"		"item_abyssal_blade"
+			}
+			"Neutral Items"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Use Blink Dagger to initiate. Without Blink Dagger, Wraith King won't be able to take advantage of the duration of his stun and may get kited before being able to finish them.
+
+Ultimately, you want to initiate with Blink Dagger and force the enemy team to fight you to activate your ultimate's slow."
+			"item_magic_wand"		"Magic Wand is essential for Wraith King who needs to ensure he has enough mana for Reincarnation in the middle of a fight. Whether having your mana burned or simply using it for your great stun: Magic Wand is too good of an item for a hero that gets in the middle of a fight."
+			"item_hand_of_midas"		"For your early-farm. Hand of Midas can be situationally good depending on your lane and if you are truly aiming for the late-game. Hand of Midas let's you ensure consistent gold per minute."
+			"item_echo_sabre"		"Echo Sabre is a great item for Wraith King, but may not be necessary considering the larger items you may want. As you engage with Wraith King; the stun and slow you can initiate with overlaps with Echo Sabre. "
+			"item_assault"		"Assault Cuirass is a more team-based item and can be more ideal than Mjollnir depending your line-up. The armor buff/debuff works well with his constant presence and the attack speed is just right. "
+			"item_black_king_bar"		"Use this ability after you reincarnate. You will be able to tank all the stuns they inflict on you. With your ultimate's slow and then your Black King Bar, you will be unstoppable."
+			"item_blade_mail"		"The issue with Wraith King is that you'll get kited  a lot.  Blade Mail let's you return the damage and keeps you in the playing field, contributing.
+
+Get Blade Mail after Blink Dagger but don't bother if enemies will be getting Black King Bar."
+			"item_radiance"		"Radiance is a unique item for Wraith King where it forces enemies to fight you or perish to your burning Radiance.
+
+However, the cost of it and the need to rush it may require planning. Follow this up with other items like Blink Dagger and Blade Mail - furthering Wraith King's presence."
+			"item_armlet"		"Stronger critical strikes, more speed, armor and strength. This is an overall good item. If you die and your ultimate activates, be sure to activate this. 
+
+The life drain from this ability is removed thanks to your own inherent passive lifesteal."
+			"item_mjollnir"		"Mjllonir is a great item to give Wraith King further damage, further speed and even more opportunity to return damage when he is getting kited.
+
+Use the Static Charge to punish enemies who target you while making your attacks even more deadly in team-fights."
+			"item_desolator"		"Get Desolator to make the few hits you can get in, be the ones that count. Desolator is to help push towers, destroy enemies and reduce their armour while also making Roshan an easy kill."
+			"item_abyssal_blade"		"Abyssal Blade keeps foes in place, dishes immense damage and works as a great follow-up with your Blink Dagger, opening up more opportunities for your own Wraithfire Blast"
+			"item_sphere"		"Consider Linken's Sphere if specific ultimate, target abilities like stuns and silences are keeping you down. This should be seen different as Black King Bar because it will waste ultimate abilities on you like Doom's Doom or Necrophos' Reaper Scythe from completely killing/disabling you.
+"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"skeleton_king_hellfire_blast"
+			"2"		"skeleton_king_vampiric_aura"
+			"3"		"skeleton_king_mortal_strike"
+			"4"		"skeleton_king_mortal_strike"
+			"5"		"skeleton_king_mortal_strike"
+			"6"		"skeleton_king_reincarnation"
+			"7"		"skeleton_king_mortal_strike"
+			"8"		"skeleton_king_vampiric_aura"
+			"9"		"skeleton_king_vampiric_aura"
+			"10"		"special_bonus_attack_speed_20"
+			"11"		"skeleton_king_vampiric_aura"
+			"12"		"skeleton_king_reincarnation"
+			"13"		"skeleton_king_hellfire_blast"
+			"14"		"skeleton_king_hellfire_blast"
+			"15"		"special_bonus_strength_15"
+			"16"		"skeleton_king_hellfire_blast"
+			"18"		"skeleton_king_reincarnation"
+			"20"		"special_bonus_unique_wraith_king_1"
+			"25"		"special_bonus_unique_wraith_king_4"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_hp_200"		"The more health, the better the survivability. With items to mitigate damage like Blade Mail, it makes the extra health even more desired by Wraith King."
+			"skeleton_king_hellfire_blast"		"Good damage, but the stun duration is limited. Intiiate with this to gank enemies:
+
+1. Blink Dagger as close to an enemy as possible.
+2. Open with Wraithfire Blast
+3. Activate Armlet of Mordiggan to improve your damage
+4. Let Reincarnation occur then activate Black King Bar to avoid getting disabled"
+			"skeleton_king_vampiric_aura"		"Use Vampiric Aura to ensure pushes to towers are easier, jungle creeps or do an early Roshan if you can ensure you can lifesteal the damage properly.
+
+Vampiric Aura is ideal to ultimately farm for all your other necessary items."
+			"skeleton_king_reincarnation"		"Two lives in one! Max this out whenever possible, just be sure you have the mana for it. Use magic wand just before you die just to be sure you have enough to Reincarnate.
+
+When you reincarnate, don't forget to activate Black King Bar as well as any other items that were toggled off from dying."
+			"special_bonus_attack_damage_15"		"The extra damage early on allows you to farm, dish damage to enemies when ganking and overall a good talent to have."
+			"special_bonus_unique_wraith_king_2"		"The extra lifesteal with your end-game itemization geared towards attack speed/damage means this item is incredibly useful for you and your allies."
+			"special_bonus_unique_wraith_king_1"		"Consider this talent if the enemy is running heroes like Keeper of the Light or Anti-Mage as their ability can drain you of all your mana and prevent you from being able to use an Enchanted Mango in time. 
+
+Also useful for Diffusal Blade-holding enemies that target you."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"skeleton_king_mortal_strike"		"Once you have reached max stacks, you can cast Mortal Strike to summon Skeletons. 
+
+They will automatically attack the nearest target and move on to the next once that target is dead.
+
+You can use these skeletons to chain farm jungle, push lanes without your presence or chase weakened foes."
+			"special_bonus_unique_wraith_king_4"		"Casts an AoE Wraithfire Blast to all nearby foes."
+		}
+	}
+}
+ 

@@ -1,0 +1,173 @@
+"guidedata"
+{
+	"Hero"		"juggernaut"
+	"Title"		"Standard Rivalry.com Build"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"98"
+	"AssociatedWorkshopItemID"		"0x0000000007B1A9AA"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50C5B"
+	"TimePublished"		"0x000000005DF50C5B"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+			}
+			"Sponsored by Rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"early game"
+			{
+				"item"		"item_boots"
+				"item"		"item_wraith_band"
+			}
+			"core items (safe Lane)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_ancient_janggo"
+				"item"		"item_maelstrom"
+				"item"		"item_mjollnir"
+			}
+			"core items (Battle Fury)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_bfury"
+				"item"		"item_sange_and_yasha"
+			}
+			"utility items"
+			{
+				"item"		"item_smoke_of_deceit"
+				"item"		"item_tpscroll"
+			}
+			"situational items"
+			{
+				"item"		"item_bottle"
+				"item"		"item_blink"
+				"item"		"item_diffusal_blade"
+				"item"		"item_black_king_bar"
+				"item"		"item_sphere"
+				"item"		"item_silver_edge"
+			}
+			"extension items"
+			{
+				"item"		"item_moon_shard"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_manta"
+				"item"		"item_skadi"
+				"item"		"item_butterfly"
+				"item"		"item_abyssal_blade"
+			}
+			"Neutral Items"
+			{
+				"item"		"item_poor_mans_shield"
+				"item"		"item_iron_talon"
+				"item"		"item_broom_handle"
+				"item"		"item_vampire_fangs"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_imp_claw"
+				"item"		"item_dragon_scale"
+				"item"		"item_paladin_sword"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_mind_breaker"
+				"item"		"item_ninja_gear"
+				"item"		"item_illusionsts_cape"
+				"item"		"item_panic_button"
+				"item"		"item_the_leveller"
+				"item"		"item_minotaur_horn"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Blink Dagger allows you to initiate with your ultimate: Omnislash and follow-through with auto-attacks before the enemy can react or retreat appropriately. Especially late into the game once you start hitting big and fast."
+			"item_bottle"		"If you are in the mid-lane and especially desperate for Healing Ward and pro-active on the map. Typically, you do not need this to farm the mid-lane."
+			"item_tpscroll"		"Blade Fury with a TP scroll is undeniable. You can spin, TP and run. Later on in the game, you may not be able to flee due to the amount of damage you take, so use your phase boots to Blade Fury and run quickly away as few will be able to follow you."
+			"item_black_king_bar"		"Black King Bar is in case the team has an incredible amount of disables that either prevents you from fleeing or simply disrupts you too hard to pop your ultimate: Omnislash. It's not always needed."
+			"item_butterfly"		"Butterfly not only adds to your armour via your specialized attribute (AGI), but it also allows you to dodge attacks."
+			"item_bfury"		"If you can farm it or face illusion heroes like Phantom Lancer, Chaos Knight: Battlefury will be needed. Battlefury, mixed with your attack speed and damage, ruins heroes.
+
+Battlefury also cleaves when you use Omnislash, making it even more potent when you use your ultimate."
+			"item_manta"		"Manta Style gives you the movement speed to chase anyone and is a great way to disrupt ranged stuns. Manta Style let's you farm faster, engage fights incredibly well and works in the late-game.
+
+You can push lanes with it while farming the jungle and disjoint/remove debuffs that slow you down. "
+			"item_sange_and_yasha"		"Sange and Yasha is in case you need to be more offensive faster than Manta Style which is considered more passive and geared for the late-game push. 
+
+Sange and Yasha gives you more oomph in life and helps you finish the game faster if your team has an advantage midgame."
+			"item_satanic"		"Satanic exchanges your damage for more survivability, the needed lifesteal and decent armour to top you off. Satanic is typically needed if against tankier foes who you can take a lot of life back from."
+			"item_mjollnir"		"Mjollnir is similar to Battlefury in that you need it against foes. The attack speed is especially appreciated, allowing you to gear yourself towards damage knowing the chain lighting proc will occur at an incredible rate.
+
+Mjollnir also gives attack speed to your illusions."
+			"item_diffusal_blade"		"Diffusal Blade takes advantage of the great AGI growth Juggernaut has and allows you to be an active player in fights or to defend pushes. 
+
+Use Diffusal Blade to catch out enemies or to mana-burn key enemies quickly (with your ultimate)."
+			"item_smoke_of_deceit"		"With 2 to 3 points in your Healing Ward, you can do Roshan alone. It's suggested to use allies, but typically you can pull it off on your own."
+			"item_abyssal_blade"		"Keep enemies down and disabled with Abyssal Blade (and Basher). Abyssal Blade gives Juggernaut even more damage and tears down rivaling carries who are also competing to carry their team."
+			"item_sphere"		"Consider Linken's Sphere if specific ultimate, target abilities like stuns and silences are keeping you down. This should be seen different as Black King Bar because it will waste ultimate abilities on you like Doom's Doom or Necrophos' Reaper Scythe from completely killing/disabling you."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"juggernaut_blade_fury"
+			"2"		"juggernaut_blade_dance"
+			"3"		"juggernaut_blade_fury"
+			"4"		"juggernaut_healing_ward"
+			"5"		"juggernaut_blade_fury"
+			"6"		"juggernaut_omni_slash"
+			"7"		"juggernaut_blade_fury"
+			"8"		"juggernaut_healing_ward"
+			"9"		"juggernaut_healing_ward"
+			"10"		"special_bonus_all_stats_6"
+			"11"		"juggernaut_healing_ward"
+			"12"		"juggernaut_omni_slash"
+			"13"		"juggernaut_blade_dance"
+			"14"		"juggernaut_blade_dance"
+			"15"		"special_bonus_attack_speed_25"
+			"16"		"juggernaut_blade_dance"
+			"18"		"juggernaut_omni_slash"
+			"20"		"special_bonus_armor_10"
+			"25"		"special_bonus_unique_juggernaut_2"
+		}
+		"AbilityTooltips"
+		{
+			"juggernaut_blade_fury"		"With each level of Blade Fury comes even stronger early-game damage to kill foes in-lane if they are slowed/disabled. The early-game kills work best when you have Boots of Speed early on.
+
+Use Blade Fury to wipe a full wave of creeps.
+Be sure to escape using Blade Fury and a Town Portal Scroll.
+
+You can cast spells even when using Blade Fury (like Healing Ward or Manta Style)"
+			"juggernaut_healing_ward"		"Don't underestimate Healing Ward. It is an incredible ability that can make your team incredibly safe. If not destroyed, the heal from Healing Ward would heal them for a % of their max health - it scales well.
+
+At the start, use it to keep in the lane, later on to farm jungle and to sustain your pushes."
+			"juggernaut_blade_dance"		"Blade Dance works best when you have the stats to accommodate it. Generally, it is maxed later on as Juggernaut scales very well, making Blade Dance useful when he has the items and attack speed to ensure it procs. as many times as possible."
+			"juggernaut_omni_slash"		"Use Omnislash every time it is up to kill a support or core hero. Avoid targeting enemies when creeps are nearby:
+
+1. Start Phase Boots to quickly get near an isolated foe
+2. Use Omnislash when they're alone so all hits stick
+3. Use Blade Fury to follow-up or to escape
+4. Healing Ward can also help while casting"
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}
+ 

@@ -1,0 +1,166 @@
+"guidedata"
+{
+	"Hero"		"alchemist"
+	"Title"		"Standard Rivalry.com Build"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"140"
+	"AssociatedWorkshopItemID"		"0x0000000007B215F2"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50BF7"
+	"TimePublished"		"0x000000005DF50BF7"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_gauntlets"
+				"item"		"item_ward_observer"
+			}
+			"Sponsored by Rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_bracer"
+				"item"		"item_boots"
+				"item"		"item_soul_ring"
+			}
+			"Core Items 2"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_radiance"
+				"item"		"item_black_king_bar"
+				"item"		"item_blink"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_bottle"
+				"item"		"item_blade_mail"
+				"item"		"item_silver_edge"
+				"item"		"item_ultimate_scepter"
+			}
+			"Extension Items"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
+				"item"		"item_heart"
+				"item"		"item_assault"
+				"item"		"item_mjollnir"
+				"item"		"item_abyssal_blade"
+			}
+			"Neutral Items"
+			{
+				"item"		"item_poor_mans_shield"
+				"item"		"item_iron_talon"
+				"item"		"item_broom_handle"
+				"item"		"item_vampire_fangs"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_imp_claw"
+				"item"		"item_dragon_scale"
+				"item"		"item_helm_of_the_undying"
+				"item"		"item_paladin_sword"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_mind_breaker"
+				"item"		"item_spell_prism"
+				"item"		"item_illusionsts_cape"
+				"item"		"item_the_leveller"
+				"item"		"item_minotaur_horn"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Blink Dagger is an ideal item for Alchemist to not only charge his Unstable Concoction at a safe location, but instantaneously stun enemies without their ability to flee and take full charge and damage."
+			"item_moon_shard"		"Consume Moon Shard when you are six slots. Start buying Moon Shards to then use on them."
+			"item_ultimate_scepter"		"Purchase Aghanim's to help your teammates who can take advantage of it. Activate Aghanim's and select your allies in order to give them the Aghanim's effect.
+
+The more Aghs you collect, the more damage & spell amp. you earn."
+			"item_assault"		"Alchemist has incredibly weak armour throughout the game. Assault Cuirass will lessen the issue, but will not remove weakness. With your Acid Spray and Assault Cuirass aura, you should be able to tear down foes with your higher speed."
+			"item_black_king_bar"		"Avoid being interrupted with Black King Bar. Alchemist can generally stay alive through regeneration but only enough to tear down enemies. He needs Black King Bar to ensure that happens."
+			"item_silver_edge"		"Get Silver Edge if initiating onto enemies is very difficult. With it, you can target enemies with strong passive abilities that make their attacks or resistance too durable to directly fight them."
+			"item_soul_ring"		"Soul Ring consumes your life to have the mana to cast Acid Spray. Thanks to your Chemical Rage, that health is regenerated quickly over time."
+			"item_radiance"		"Radiance, in combination with your Greevil's Greed and Acid Spray; mean fast jungle camps, push lanes at an incredible rate and ultimately move onto even larger items. 
+
+You can also use Radiance to discourage pushes from the enemy team and scare them off with your burn damage."
+			"item_manta"		"Manta Style is to help with your farming even more and Radiance works with your illusions, allowing you to push even more lanes, push more towers."
+			"item_armlet"		"Armlet of Mordiggian adds to Alchemist's stats while its negative effect is mitigated by Alchemist's ultimate: Chemical Rage, which regenerates his health much more quickly than he'll lose using Armlet."
+			"item_shivas_guard"		"Shiva's Guard wards off enemies attacks by reducing their attack speed and when activated, slows their movement and nukes them for large magic damage."
+			"item_octarine_core"		"Octarine Core works constantly with your Radiance; making you regenerate life fast in combination with your ultimate: Chemical Rage. 
+
+The cooldown reduction means Acid Spray can come online even faster and Chemical Rage comes off cooldown even more.
+
+Active items also come off cooldown quicky too."
+			"item_travel_boots"		"Boots of Travel is essential to an Alchemist who wants to avoid fights, take advantage of Radiance to farm lanes fast and tearing up the jungle. Later on, you can use this to split-push lanes and deal damage with your ultimate and incredible attack speed once you have your other items."
+			"item_mjollnir"		"Mjollnir for a offensive Alchemist to really push his farming potential, strong attack speed and to combat illusion-based heroes (e.g Manta Style). The mix-up for Chain Lightning magic damage as well as the damage from Alchemist's melee attack can be enough to completely wear down teams.
+
+Don't forget to cast Static Charge on yourself to punish enemies who target you."
+			"item_branches"		"Use the iron branch to regenerate your health even more when eating the planted tree with your tango."
+			"item_blade_mail"		"If being targeted by a lot of physical damage and less by stuns, Blade Mail can be a good item. Especially useful against ranged physical carries like Drow Ranger or Sniper who have a small health-pool."
+			"item_abyssal_blade"		"Follow-up with Unstable Conoction with Abyssal Blade. The extended stun duration as well as the increase health-pool will make surviving in fights much easier for Alchemist."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"alchemist_goblins_greed"
+			"2"		"alchemist_acid_spray"
+			"3"		"alchemist_acid_spray"
+			"4"		"alchemist_goblins_greed"
+			"5"		"alchemist_acid_spray"
+			"6"		"alchemist_chemical_rage"
+			"7"		"alchemist_acid_spray"
+			"8"		"alchemist_goblins_greed"
+			"9"		"alchemist_goblins_greed"
+			"10"		"special_bonus_attack_speed_25"
+			"11"		"alchemist_unstable_concoction"
+			"12"		"alchemist_chemical_rage"
+			"13"		"alchemist_unstable_concoction"
+			"14"		"alchemist_unstable_concoction"
+			"15"		"special_bonus_attack_damage_30"
+			"16"		"alchemist_unstable_concoction"
+			"18"		"alchemist_chemical_rage"
+			"20"		"special_bonus_cleave_40"
+			"25"		"special_bonus_unique_alchemist_4"
+		}
+		"AbilityTooltips"
+		{
+			"alchemist_acid_spray"		"Acid Spray secures your lane, but also pushes it. It also helps you improve your farming, but at a high-mana cost. Use Acid Spray right before fights to lower their armour to make fighting easier.
+
+Use Acid Spray to clear stacked Jungle camps, hastening your farm even faster."
+			"alchemist_unstable_concoction"		"Unstable Concotion takes 5 seconds to reach its max stun duration.
+
+Before TP'ing into a fight or to defend a teammate, active your Unstable Concotion so you can hit foes at a longer length without them being able escape.
+
+Affects all units around the target, even if self-casted."
+			"alchemist_goblins_greed"		"We get a point in Greevil's Greed early on for the multiplier bonus earned by collecting bounty runes.
+
+Works regardless who gets bounty rune."
+			"alchemist_chemical_rage"		"This ultimate has a relatively low cooldown and offers a ton of HP/Mana regeneration. Use it to farm; it's also great to survive ganks and get that extra movement speed.
+
+When getting slowed or disabled, considering using your ultimate as a Dispel to rid all annoyances.
+
+Early on, you rely on this ability to survive while jungling."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_unique_alchemist_4"		"Increased Health Regeneration when using your ultimate"
+			"special_bonus_unique_alchemist_3"		"Reduced Base Attack Time (intervals between attacks)"
+		}
+	}
+}
+ 

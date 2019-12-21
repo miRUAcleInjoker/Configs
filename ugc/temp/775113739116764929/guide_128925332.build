@@ -1,0 +1,157 @@
+"guidedata"
+{
+	"Hero"		"furion"
+	"Title"		"Standard Rivalry.com Build"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"88"
+	"AssociatedWorkshopItemID"		"0x0000000007AF3E94"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50C8C"
+	"TimePublished"		"0x000000005DF50C8C"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_blight_stone"
+				"item"		"item_ward_observer"
+			}
+			"sponsored by Rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"early game"
+			{
+				"item"		"item_boots"
+			}
+			"core items (Offlane)"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_ancient_janggo"
+				"item"		"item_orchid"
+			}
+			"core items (Utility)"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_vladmir"
+				"item"		"item_solar_crest"
+			}
+			"situational items"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_invis_sword"
+				"item"		"item_desolator"
+				"item"		"item_hurricane_pike"
+				"item"		"item_sphere"
+			}
+			"extension items"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_nullifier"
+				"item"		"item_silver_edge"
+				"item"		"item_mjollnir"
+				"item"		"item_sheepstick"
+				"item"		"item_bloodthorn"
+			}
+			"Neutral Items"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_sheepstick"		"Nature's Prophet range makes Scythe of Vyse a very good item; especially if you can get it early enough to still keep ganking. Also use it to prevent ganks for when you want to teleport away as the duration is long enough."
+			"item_orchid"		"Orchid Malevolence keeps enemies down and you dealing fast damage. This is ideal for a team-fighting Nature's Prophet that has inherent strong base-damage, but needs the disable to be able to deliver.
+
+Orchid is also great to initiate ganks, using teleport to get in, gank; then leave to resume farm."
+			"item_black_king_bar"		"Black King Bar ensures you can dish out the damage without getting interrupted. Use it in tight situations and fights that you want to stay distanced from.
+
+Traditionally, Nature's Prophet should be taking no damage or using his team as a buffer; making this item maybe unnecessary. "
+			"item_invis_sword"		"This is a good escape item for Nature's Prophet, but can also be used to gank for the initial strike damage and good Sprout range.
+
+You remain invisible as you are using your hero's ability: Teleport, so use Shadow Blade to position behind trees then TP out."
+			"item_silver_edge"		"Silver Edge is the next logical step to Shadow Blade. It emphasizes what may be already working for Nature's Prophet. If you are ganking heavily with success and want to silence someone's passive ability that makes them incredible, Silver Edge could be necessary"
+			"item_mjollnir"		"Mjollnir is the logical follow-up to Maelstrom can multiply your farm pace at an incredible rate, but also improve pushing capabilities and do away with any worry of needing attack speed
+
+Make sure to use the Static Shield on a tanky ally as you may be too squishy to make use of it in fights"
+			"item_desolator"		"Desolator is great for team-fights and tearing down towers. Nature's Prophet has a naturally good attack speed as he levels up. All he needs is the damage to take advantage of it"
+			"item_ancient_janggo"		"An early Drum of Endurance means more survivability for pushes as well as attack speed to compliment your early damage."
+			"item_solar_crest"		"Solar Crest provides defensive capabilities for yourself but more importantly, adds fragility to enemies by reducing their armor - allowing your carry and you to kill the more quickly. Use this also to farm jungle creeps more quickly as there is no mana cost."
+			"item_hurricane_pike"		"When enemies get too close and in your face, use Hurricane Pike to push them away and provide insane range for your attacks.
+
+Also useful if you have the jump on them to push them immediately apart from your attacks and kite them hard."
+			"item_sphere"		"Consider Linken's Sphere if specific ultimate, target abilities like stuns and silences are keeping you down. This should be seen different as Black King Bar because it will waste ultimate abilities on you like Doom's Doom or Necrophos' Reaper Scythe from completely killing/disabling you."
+			"item_nullifier"		"Nullifier amplifies your damage and mutes enemies, preventing them from using their items.
+
+With your Manta Style, each attack when Nullifier is activated on an enemy will cut their movement speed momentarily - making it harder for them to escape.
+
+Especially useful against BKB users."
+			"item_bloodthorn"		"Bloodthorn is an end-game item that completely shuts off the active abilities of your targeted enemy.
+
+With it, you and your ally attacks gain True Strike (can't miss) and critical damage and any spell or physical attacks you do will deal additional damage at the end of the silence period."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"furion_force_of_nature"
+			"2"		"furion_teleportation"
+			"3"		"furion_force_of_nature"
+			"4"		"furion_sprout"
+			"5"		"furion_force_of_nature"
+			"6"		"furion_wrath_of_nature"
+			"7"		"furion_force_of_nature"
+			"8"		"furion_teleportation"
+			"9"		"furion_teleportation"
+			"10"		"special_bonus_attack_damage_30"
+			"11"		"furion_teleportation"
+			"12"		"furion_wrath_of_nature"
+			"13"		"furion_sprout"
+			"14"		"furion_sprout"
+			"15"		"special_bonus_armor_10"
+			"16"		"furion_sprout"
+			"18"		"furion_wrath_of_nature"
+			"20"		"special_bonus_attack_speed_40"
+			"25"		"special_bonus_unique_furion_3"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_attack_damage_20"		"Take the additional damage to help with farming, taking down towers and ganking foes."
+			"furion_sprout"		"Use Sprout to block paths, summon Treants or to trap foes. Click on the foes to trap them and ensure they cannot escape. 
+
+You can also use Sprout to protect yourself as it removes vision, allowing you to teleport away.
+
+The Sprout Trees gives Flying Vision over enemies."
+			"furion_teleportation"		"Use Teleportation often to go back to fountain or gank nearby weak foes. It's also great to use to split-push and can be activated even when you're invisible without breaking the invisibility. 
+
+When ganking, try and teleport in front of them or where they'll be between you and your assisting allies"
+			"furion_force_of_nature"		"Your Treants are what make you a great farmer and pusher. Be active with them to tank damage against Jungle camps or to push a lane as you are in another one pushing it; making you pushing dual-lanes, forcing enemies to defend one or another; as you teleport away to push another lane or farm jungle."
+			"furion_wrath_of_nature"		"Use this ability to farm jungle creeps and weak creeps across the map. It may also hit fleeing enemy heroes.
+
+When ganking an enemy, especially with Orchid of Malevolence, cast Wrath of Nature on the enemy as your first target can be directed - guaranteeing the damage.
+
+"
+			"special_bonus_unique_furion"		"The Treants Perk is great for the end-game where your treants just end up being more exp. and gold for the enemy. The improved life and damage means damage fall faster, defending bases is easier and overflowing your enemy's base when pushing is stronger."
+			"special_bonus_intelligence_15"		"The extra intelligence can convert into more damage as well as a mana-pool to afford casting certain abilities, summoning more treants and being able to safe teleport away."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_unique_furion_3"		"Does not remove time needed to cast your Teleportation"
+		}
+	}
+}
+ 

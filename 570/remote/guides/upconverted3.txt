@@ -1,0 +1,8 @@
+"upconversionInfo"
+{
+	"upconverted"
+	{
+		"sniper_scratch.build"		"1"
+		"hero_981528806.build"		"1"
+	}
+}

@@ -1,0 +1,154 @@
+"guidedata"
+{
+	"Hero"		"monkey_king"
+	"Title"		"Standard Rivalry.com Build"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"93"
+	"AssociatedWorkshopItemID"		"0x0000000030B83B65"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50C86"
+	"TimePublished"		"0x000000005DF50C86"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+			}
+			"sponsored by Rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"early game"
+			{
+				"item"		"item_orb_of_venom"
+				"item"		"item_boots"
+				"item"		"item_wraith_band"
+			}
+			"core items (safe lane)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_echo_sabre"
+				"item"		"item_maelstrom"
+				"item"		"item_black_king_bar"
+			}
+			"core items (aggressive)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_diffusal_blade"
+				"item"		"item_black_king_bar"
+				"item"		"item_sange_and_yasha"
+			}
+			"situational items"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_heavens_halberd"
+				"item"		"item_bfury"
+				"item"		"item_sphere"
+				"item"		"item_silver_edge"
+			}
+			"extension items"
+			{
+				"item"		"item_monkey_king_bar"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_butterfly"
+				"item"		"item_skadi"
+				"item"		"item_mjollnir"
+				"item"		"item_abyssal_blade"
+			}
+			"Neutral Items"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_infused_raindrop"		"For a good portion of the game, Monkey King suffers from really low health - making him a very easy nuking target. Infused Raindrop alleviates his early mana issues and prevents him from being one-shot."
+			"item_phase_boots"		"Phase Boots is to relieve any issue of movement speed for Monkey King and to take advantage of his strong early damage from Jingu Mastery and Boundless Strike"
+			"item_echo_sabre"		"Echo Sabre wraps up any early mana issues that Monkey King may have, helps collect two strikes for his Jingu Mastery to occur and slows the foe to allow Monkey King to follow-through even after ganking with Primal Spring."
+			"item_black_king_bar"		"Money King's biggest issue is being stunned or silenced - making escape or fighting back very difficult. Black King Bar may need to be gotten early if you're find yourself targeted early on and unable to fight or use Tree Dance."
+			"item_sange_and_yasha"		"Sange and Yasha is nice tidy package for Monkey King where he takes advantage of the agility, the movement speed and slow - but also relies on the mid-game strength boost from Sange and Yasha to alleviate fears of being one-shot from nukes."
+			"item_sphere"		"Consider Linken's Sphere if specific ultimate, target abilities like stuns and silences are keeping you down. This should be seen different as Black King Bar because it will waste ultimate abilities on you like Doom's Doom or Necrophos' Reaper Scythe from completely killing/disabling you."
+			"item_butterfly"		"Butterfly not only adds to your armour via your specialized attribute (AGI), but it also allows you to dodge attacks."
+			"item_bfury"		"Instead of fighting, Battle Fury hastens your farm and is particularly good against illusion heroes. If you know the game will be passive or you think you will not be able to get the early active jumps/ganks on enemies, go for Battle Fury."
+			"item_silver_edge"		"Shadow Blade/Silver Edge is another initiating tool for Monkey King. While there is Tree Dance to initiate, Shadow Blade can take advantage of Monkey King's Jingu Mastery increased damage (if proc'd) for higher damage and use the Tree Dance/Spring to catch fleeing foes or to escape.
+
+Use Shadow Blade/Silver Edge after using your ultimate to safely hide within your ultimate and once the enemies start fleeing - come out and fight them head-on."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"monkey_king_jingu_mastery"
+			"2"		"monkey_king_boundless_strike"
+			"3"		"monkey_king_jingu_mastery"
+			"4"		"monkey_king_boundless_strike"
+			"5"		"monkey_king_jingu_mastery"
+			"6"		"monkey_king_tree_dance"
+			"7"		"monkey_king_jingu_mastery"
+			"8"		"monkey_king_wukongs_command"
+			"9"		"monkey_king_boundless_strike"
+			"10"		"special_bonus_attack_speed_20"
+			"11"		"monkey_king_boundless_strike"
+			"12"		"monkey_king_wukongs_command"
+			"13"		"monkey_king_tree_dance"
+			"14"		"monkey_king_tree_dance"
+			"15"		"special_bonus_unique_monkey_king_7"
+			"16"		"monkey_king_tree_dance"
+			"18"		"monkey_king_wukongs_command"
+			"20"		"special_bonus_unique_monkey_king"
+			"25"		"special_bonus_unique_monkey_king_6"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_attack_speed_20"		"With the additional attack speed, Jingu Mastery should appear faster after each gank. Additionally, the attack speed allows you to farm relatively faster."
+			"special_bonus_movement_speed_20"		"and I'm suddenly consumed with the overwhelming sensation that I'm covered with some sort of film. It's in my hair, my face... it's like a glaze... like a... a coating, and... at first I thought, oh my god, I know what this is, this is some sort of amniotic - embryonic - fluid. I'm drenched in"
+			"special_bonus_attack_damage_40"		"Works with your ultimate to provide more damage to your Monkeys."
+			"special_bonus_strength_15"		"but from the asshole of an organism whose sole function is to excrete the... the-the-the poison, the ammo, the defoliant necessary for other, larger, more powerful organisms to destroy the miracle of humanity. And that I had been coated in this patina of shit for the best part of my life."
+			"special_bonus_hp_275"		"Depending on how you're itemized to compensate for your movement speed (by ensuring you can get close to the enemy), you can get more health instead to make Monkey King a bit less of a fragile cannon."
+			"monkey_king_boundless_strike"		"Boundless Strike is a great hard-initiation OR finishing move if the enemy either gets too far from you.
+
+Boundless Strike also works with Jingu Mastery - taking a stack/adding a charge to the ability and adding Jingu's bonus damage to its crit. multiplier."
+			"monkey_king_tree_dance"		"Use Tree Dance to:
+
+1. Gain full vision of a fight or ganking enemies near your team
+2. Chase/follow unsuspecting enemies that you want to gank
+3. Prepare for an initiation for your Primal Spring
+4. Escape and teleport a way
+
+Abilities work while you are in the trees (and you stay on there). If the tree you're standing on gets destroyed, you'll be stunned."
+			"monkey_king_primal_spring"		"Primal Spring needs some forethought to accurately charge for the full damage/slow and target the enemy accurately.
+
+Use Primal Spring to:
+
+1. Enter a fight later (and for ideal positioning - targeting enemies in the back), 
+2. To follow-through on a Tree Dance escape
+3. initiate on solo enemies"
+			"monkey_king_jingu_mastery"		"Once you have Jingu Mastery activated, you can save it until another point in time, regardless if you go farm after.
+
+1. Use Tree Spring/Primal Spring to initiate (charge longer for more damage/slow)
+2. Get as many hits to active Jingu Mastery as possible
+3. Finish with Boundless Strike"
+			"monkey_king_wukongs_command"		"If you leave the AOE of your casted Wukong's Command, it will vanish. Wukong's Command relies on keeping the enemy within the AOE to receive the bonus damage
+
+1. Use Boundless Strike or Primal Spring to get near foes and slow/stun them
+2. Activate Wukong's Command
+3. Take advantage for Jingu stacks"
+			"special_bonus_unique_monkey_king_6"		"Extends the AOE of your Wukong's Command Ring, providing additional room for more Wukong Soldiers."
+			"special_bonus_unique_monkey_king_4"		"Provides 100 armor to Wukong"
+		}
+	}
+}
+ 

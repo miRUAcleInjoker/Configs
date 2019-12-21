@@ -1,0 +1,288 @@
+"guidedata"
+{
+	"Hero"		"techies"
+	"Title"		"Techies Ebobo"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"Взрывать, Строить, Убивать.
+
+СБРКА ПРОВЕРЕНА НА ЭФЕКТИВНОСТЬ В БОЛЕЕ 900 ТЫС. ИГР ПО ВСЕМУ МИРУ.
+
+[url=https://www.twitch.tv/personw]Twitch[/url]
+
+<img src=\" https://cdn.discordapp.com/attachments/280691213861126145/439076331972722698/HcytEx_0hco.png \">
+
+
+(cдесь может быть ваша реклама.)
+"
+	"GuideRevision"		"274"
+	"AssociatedWorkshopItemID"		"0x000000003375A7A9"
+	"OriginalCreatorID"		"0x0000000007B54092"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF5435F"
+	"TimePublished"		"0x000000005DF5435F"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"начальные предметы"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_orb_of_venom"
+				"item"		"item_gauntlets"
+			}
+			"предметы на лайн + расходники"
+			{
+				"item"		"item_soul_ring"
+				"item"		"item_tranquil_boots"
+				"item"		"item_ring_of_basilius"
+			}
+			"предметы средней игры + слот"
+			{
+				"item"		"item_veil_of_discord"
+				"item"		"item_kaya"
+			}
+			"лейт предметы + слот"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_bloodstone"
+				"item"		"item_octarine_core"
+				"item"		"item_bloodthorn"
+				"item"		"item_travel_boots"
+			}
+			"предметы + слот"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_veil_of_discord"
+				"item"		"item_bloodstone"
+				"item"		"item_octarine_core"
+				"item"		"item_bloodthorn"
+				"item"		"item_moon_shard"
+				"item"		"item_ultimate_scepter_2"
+			}
+			"слоты"
+			{
+				"item"		"item_cyclone"
+				"item"		"item_sheepstick"
+				"item"		"item_nullifier"
+				"item"		"item_force_staff"
+				"item"		"item_ethereal_blade"
+				"item"		"item_shivas_guard"
+				"item"		"item_sphere"
+				"item"		"item_black_king_bar"
+				"item"		"item_aeon_disk"
+				"item"		"item_blade_mail"
+				"item"		"item_lotus_orb"
+				"item"		"item_travel_boots_2"
+				"item"		"item_heart"
+				"item"		"item_moon_shard"
+				"item"		"item_rapier"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_hurricane_pike"
+				"item"		"item_silver_edge"
+				"item"		"item_radiance"
+				"item"		"item_mjollnir"
+				"item"		"item_satanic"
+				"item"		"item_manta"
+				"item"		"item_abyssal_blade"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_refresher"
+				"item"		"item_aether_lens"
+				"item"		"item_spirit_vessel"
+				"item"		"item_dagon_5"
+				"item"		"item_shadow_amulet"
+				"item"		"item_hand_of_midas"
+				"item"		"item_necronomicon_3"
+				"item"		"item_blink"
+			}
+			"расходники"
+			{
+				"item"		"item_tpscroll"
+				"item"		"item_clarity"
+				"item"		"item_flask"
+				"item"		"item_bottle"
+				"item"		"item_enchanted_mango"
+				"item"		"item_smoke_of_deceit"
+				"item"		"item_dust"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
+				"item"		"item_gem"
+				"item"		"item_infused_raindrop"
+				"item"		"item_faerie_fire"
+				"item"		"item_tome_of_knowledge"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Спасет из передряги. (можно проблинковаться к врагам на базу, заминировать там все и взорвать)."
+			"item_mantle"		"Даст немного маны и регена маны, а так же урон "
+			"item_branches"		"Ветка. ( Для крафта последущих предметов)."
+			"item_boots"		"Сапожек :)"
+			"item_gem"		"Чтоб ломать варды."
+			"item_ward_sentry"		"Чтоб ломать варды."
+			"item_tango"		"Поможет вам не сдохнуть на лайне"
+			"item_travel_boots_2"		"Эту вещь можно купить для того что бы прилететь к трону противника когда он падает и юзать насмешку, ну можно еще для того чтоб потратить ненужное золото."
+			"item_sheepstick"		"Чисто кинуть в вражеского керри что бы он наделал в штаны. "
+			"item_bloodthorn"		"В лейте с талантом на 251  урона позволяет вам стать полноценным кором который может дать пиздюлей."
+			"item_cyclone"		"Даст вам много регенерации маны, скорости и может поднять когонибудь в небеса."
+			"item_aether_lens"		"Ваши мины можно ставить на 250 ренжи дальше."
+			"item_force_staff"		"Если у противника гем или варды, можно его пихнуть этой штукой и все будет норм."
+			"item_dagon_5"		"В комбинации с KAYA и полностью улучшеным BlastOFF превращает ваших врагов в пыль."
+			"item_ultimate_scepter"		"Без него выш ульт не  будет наносить урон в лэйте , так как BoоmBochkА не будет наносить урона.
+Дает +300 дальности ко всем минам.
+ "
+			"item_refresher"		"Если игра затянулась на 3 часа и тебе нечем заняться то можешь рефрешнуть табличку. ( нельзя ставить 2 таблички одновременно)."
+			"item_black_king_bar"		"В лейте без него вас будут станить и смешивать с говном."
+			"item_shivas_guard"		"Армор, замедло, интелект, что еще нужно ?"
+			"item_bloodstone"		"МАНА И ЗДОРОВЬЕ В ОГРОМНЫХ КОЛИЧЕСТВАХ!!!! ОСТОРОЖНО!!!"
+			"item_soul_ring"		"Обеспечит вас регенирацией здоровья и маной до конца игры."
+			"item_arcane_boots"		"Голубой ботинок. ( Можно разобрать и использывать Energy Booster для крафта более мощных предметов)."
+			"item_octarine_core"		"Что такое кд?"
+			"item_smoke_of_deceit"		"Глаза вас не увидят."
+			"item_veil_of_discord"		"Увеличит магический урон по персонажам врага."
+			"item_guardian_greaves"		"Cнимает НИГАтивные эфекты и хилит.
+"
+			"item_rod_of_atos"		"2 секунды стана, выглядит не плохо."
+			"item_magic_wand"		"Анальная палка. ( дает статы и занимает место ) . "
+			"item_faerie_fire"		"Мнгоновенный хил на 100 может перевернуть исход битвы."
+			"item_mjollnir"		"Скорость атаки и молнии. (и урон)."
+			"item_kaya"		"Снизит затраты маны на 12% и даст  вам хоть немного интелекта. (Не увеличит урон от мин).
+(увеличит урон от Blast Off )."
+			"item_orb_of_venom"		"TOXIK ATTAK!!!!
+"
+			"item_clarity"		"Пить.
+
+"
+			"item_tome_of_knowledge"		"Почитать - это полезно."
+			"item_moon_shard"		"Кушай камни. ( И команду накормить не забудь).
+"
+			"item_aeon_disk"		"НЕ АКТИВИРУЕТСЯ ОТ СУЕЦИДА!!!!"
+			"item_necronomicon_3"		"Если по всюду варды, а в команде нет сапортов то эта чудо- книга вас спасет."
+			"item_hurricane_pike"		"Пика в жёпу врагу. ( Делает вашу дальность атаки похожей на снайпера)."
+			"item_courier"		"Осел.
+ИА-ИА-ИА-ИА!!!!!!!"
+			"item_dust"		"Волшебная пыльца."
+			"item_meteor_hammer"		"Подойдёт для пуш -минера. ( Хорошо сочетается с Aether Lens и EUL)."
+			"item_heart"		"Много хила."
+			"item_manta"		"Вас становится 3. ( 3 минера > 1 минер ). "
+			"item_dagon"		"Задагонь лучше себе ебало."
+			"item_rapier"		"Ohhh Mayyy
+Атаки без промаха."
+			"item_orchid"		"Сало, Мана, Арчибальд."
+			"item_yasha_and_kaya"		"Бафнет вашу KAYA, преобразуя в палки- ебалки. "
+			"item_ring_of_tarrasque"		"Кольцо говна. ( поможет жить)"
+			"item_gauntlets"		"Гантеля для потдержания силы духа и выносливости."
+			"item_oblivion_staff"		"Костыль."
+			"item_yasha"		"Гонщик нелегальный,
+Мчится на всей, скорости"
+			"item_kaya_and_sange"		"Бафнет вашу KAYA, преобразуя в палки- ебалки. "
+			"item_travel_boots"		"Скоррость.
+Безумие .
+ЫЫЫЫЫЫЫ."
+			"item_ethereal_blade"		"Увеличит магический урон по персонажу в котрого был использован данный артефакт."
+			"item_nullifier"		"Враг не сможет нажать предметы и обосрется."
+			"item_skadi"		"Cold Attack
+( Дает большое колличество статов)."
+			"item_sphere"		"Блокирует, летящее в вас деремо, из жопы противника."
+			"item_silver_edge"		"Инвиз = бессмертие."
+			"item_crown"		"Корона с Burger King."
+			"item_satanic"		"Колосальный вампиризм в обмен на ваш свободный слот."
+			"item_infused_raindrop"		"Разавая защита от любителей зевса. ( 5 зардов)."
+			"item_greater_crit"		"Ты ебанат ???"
+			"item_null_talisman"		"Вы станете:
+-Сильным
+-Ловким
+-Интелектуальным
+( Увеличит ваш урон от BlasOff).
+(Стакается с другими Null Talisman и KAYA)."
+			"item_abyssal_blade"		"Для отбитых безумцев."
+			"item_tpscroll"		"Телепортация- Залог победы в этой игре,
+Не жалейте денег на телепорты."
+			"item_hyperstone"		"ГиперКамень."
+			"item_blade_mail"		"Возвращай и отталкивай."
+			"item_radiance"		"Враг начнет гореть еще больше и начнет промахиваться."
+			"item_spirit_vessel"		"Практически полностью отключит реген жирным ублюдкам."
+			"item_ward_observer"		"Чтоб видеть цель."
+			"item_ultimate_scepter_2"		"Можно сожрать и освободить слот."
+			"item_ring_of_basilius"		"Базилиус???"
+			"item_mystic_staff"		"Мистический стафф."
+			"item_shadow_amulet"		"Амулетная тень."
+			"item_helm_of_the_dominator"		"Дает полезную ауру своим союзникам и позволяет приручить крипа."
+			"item_ultimate_orb"		"Ультимативная сфера."
+			"item_lotus_orb"		"Отражение заклинаний. ( можно повесить на союзника)."
+			"item_hand_of_midas"		"Пасивный заработок."
+			"item_bottle"		"БутылкА"
+			"item_tranquil_boots"		"Дает скорость передвижения и хилит вас как ничто другое. ( в лейте можно заменить на Heart of Tarrasque)."
+			"item_enchanted_mango"		"Манго. ( стакается по 3)."
+			"item_flask"		"Отхилит если все свосем плохо."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"techies_land_mines"
+			"2"		"techies_suicide"
+			"3"		"techies_land_mines"
+			"4"		"techies_suicide"
+			"5"		"techies_land_mines"
+			"6"		"techies_remote_mines"
+			"7"		"techies_land_mines"
+			"8"		"techies_suicide"
+			"9"		"techies_suicide"
+			"10"		"special_bonus_unique_techies_3"
+			"11"		"techies_stasis_trap"
+			"12"		"techies_remote_mines"
+			"13"		"techies_stasis_trap"
+			"14"		"techies_stasis_trap"
+			"15"		"special_bonus_mp_regen_6"
+			"16"		"techies_stasis_trap"
+			"18"		"techies_remote_mines"
+			"20"		"special_bonus_gold_income_150"
+			"25"		"special_bonus_unique_techies_4"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_movement_speed_20"		"Скорость?? вы серьезно??"
+			"special_bonus_mp_regen_2"		"Маны для минера всегда мало "
+			"special_bonus_cooldown_reduction_20"		"Больше мин!!! 
+Еще больше!!!"
+			"special_bonus_cast_range_200"		"Это конечно тоже круто и все такое, но больше опыта это круче."
+			"special_bonus_exp_boost_30"		"С этим талантом вы будите получать очнь много опыта что приведет вас к 30 LVL."
+			"special_bonus_respawn_reduction_60"		"Вы просто становитесь пушечным мясом и без золота вы вряд ли сможете получить свои айтемы дефая трон."
+			"techies_land_mines"		"Наносит колосальный урон по противникам.
+Комбинируйте со 2 скилом.
+Имеет 3 заряда.
+(Так же используется при фарме крипов)."
+			"techies_stasis_trap"		"ROOT эфект на 5 сек.
+Имеет задержку в 2 секунды.
+Если в её радиусе есть другие ловушки то она их подорвет, так что ставьте разумнее.
+Эта мина невидима и не действует на невидимых юнитов."
+			"techies_suicide"		"Используйте чтобы догнать противника, так же дает долгий сайленс и отнимает вам 50% хп, осторожно с этим скилом. ( ваше сопративление к магии снизит входящий по вам урон)."
+			"techies_focused_detonate"		"Клац."
+			"techies_minefield_sign"		"Ставь в бочки когда враги рядом и все будет норм."
+			"techies_remote_mines"		"Если кинуть сразу после прыжка во врага то не каждый сможет это пережить.
+Без покупки аганима в лейте не нанесет много урона даже крипам.
+"
+			"special_bonus_unique_techies"		"300+600=900+% урона от способностей= очень много.
+"
+			"special_bonus_mp_regen_4"		"Нехватка маны ? Бери этот талант."
+			"special_bonus_movement_speed_75"		"Зачем брать скорость бега если можно летать на своей телеге."
+			"special_bonus_attack_damage_251"		"2 5 1. 
+
+"
+			"special_bonus_unique_techies_4"		"ЭТО БЕЗУМИЕ))00"
+			"special_bonus_unique_techies_3"		"Позволяет спамить минами. (требует хорошей регенерации маны )."
+			"special_bonus_mp_regen_6"		"Маны много не бывает."
+			"special_bonus_movement_speed_50"		"Гонщик нелегальный,
+Мчится на всей, скорости.
+Он профессиАнальный,
+Нет ему покорностииииииииииииииииииии."
+			"special_bonus_gold_income_150"		"Вложения в будущее."
+			"special_bonus_exp_boost_20"		"С этим талантом вы очень быстро дойдете до 30 LVL."
+			"special_bonus_magic_resistance_25"		"Снизит урон от внешнего колдунства.(уменьшит урон по вам от Blast off )."
+		}
+	}
+}
+ 

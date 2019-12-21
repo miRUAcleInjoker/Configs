@@ -1,0 +1,177 @@
+"guidedata"
+{
+	"Hero"		"abaddon"
+	"Title"		"Standard Rivalry.com Build"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"106"
+	"AssociatedWorkshopItemID"		"0x000000000984CC78"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50D86"
+	"TimePublished"		"0x000000005DF50D86"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_quelling_blade"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_ward_observer"
+			}
+			"Sponsored by Rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_orb_of_venom"
+			}
+			"Core Items (offlane)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_vladmir"
+				"item"		"item_heavens_halberd"
+			}
+			"Core Items (Radiance)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_vladmir"
+				"item"		"item_radiance"
+			}
+			"Situational Items"
+			{
+				"item"		"item_soul_ring"
+				"item"		"item_hand_of_midas"
+				"item"		"item_ancient_janggo"
+				"item"		"item_blade_mail"
+				"item"		"item_crimson_guard"
+				"item"		"item_lotus_orb"
+			}
+			"Extension Items"
+			{
+				"item"		"item_blink"
+				"item"		"item_pipe"
+				"item"		"item_solar_crest"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_shivas_guard"
+				"item"		"item_assault"
+			}
+			"Neutral Items"
+			{
+				"item"		"item_poor_mans_shield"
+				"item"		"item_iron_talon"
+				"item"		"item_broom_handle"
+				"item"		"item_faded_broach"
+				"item"		"item_vampire_fangs"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_dragon_scale"
+				"item"		"item_helm_of_the_undying"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_mind_breaker"
+				"item"		"item_spell_prism"
+				"item"		"item_panic_button"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_gem"		"Abaddon is great gem holder generally because he is difficult to kill and is always in the center of fights."
+			"item_vladmir"		"Among the best Vlad's Offering holders out there due to his tankiness and the the aura he offers. Overall: good item regardless of how you play Abaddon. 
+
+Vladmir's Offering also lets you farm comfortably so you can get your next core item."
+			"item_ultimate_scepter"		"Aghanim's Scepter of Abaddon means you want to become the focus of fights when your ultimate is active so your allies can get even more heals. This is great against uncontrollable AOE abilities that you can freely take damage from like Monkey King's ultimate or Mars' ultimate ability."
+			"item_assault"		"Aid your physical carries with the attack speed boost and the aura buff/debuff. This increases Abaddon's presence and damage he can deal despite being a more supportive role."
+			"item_shivas_guard"		"Shiva's Guard on Abaddon is a no-brainer given his tank-like capabilities, survivability and chasing passive. Open with Shiva's Guard when engaging and chase down enemies with Curse of the Avernus."
+			"item_lotus_orb"		"Lotus Orb contributes to the tankiness of Abaddon. Abaddon is okay taking nuke damage; this is to reflect the damage, stuns and targeting abilities to ultimately hurt those who are dumb enough to focus you.
+
+Lotus Orb also dispels whatever stun or disable is on an ally, so use it to get friends out of bad situations."
+			"item_blade_mail"		"With your Aphotic Shield, life-sacrificing Mist Coil ability and your ultimate: Borrowed Time, Blade Mail can work as an intermission between all those abilities and further reflect the damage your foes dish out to you."
+			"item_octarine_core"		"Octarine Core mixed with your talent cooldown % and your ultimate (with Aghanim's Scepter) will make you nearly unstoppable and very difficult to kill.
+
+Combined with other item-actives, you will be constantly disrupting battles with your presence and disables."
+			"item_ancient_janggo"		"More strength, more movement speed, a bit of intelligence. All things Abaddon thrives off of and get bolster his team's mobility while also surviving longer! If in a pushing line-up, Drums of Endurance can be immense to your goals.
+
+The aura on Abaddon is a benefit regardless."
+			"item_solar_crest"		"Solar Crest is an overall great utility item to help with Roshan, improves an allies' defense and ultimately make you a harder target to hit thanks to the evasion.
+
+Casting this on an ally improves their attack speed which can be useful when you are facing towers."
+			"item_heavens_halberd"		"Due to the tankiness of Abaddon, Heaven's Halberd adds further strength to it, but also includes evasion; making Abaddon last more, can divulge more life to healing allies and ultimately become more impactful in fights without fear of death."
+			"item_blink"		"Jump on enemies to immediately hit them with your Curse of the Avernus, making their attempts at running away much harder."
+			"item_radiance"		"Abaddon is an especially tanky hero with his Aphotic Shield and ultimate ability, making his presence all the more annoying in fights.
+
+Get an early Radiance NOT TO FIGHT, but rather to hasten your farm for other large items to improve your survivability. Abaddon is not an especially good farming hero."
+			"item_medallion_of_courage"		"Abaddon relies on constant mana regeneration to ensure he has enough mana to cast his spells "
+			"item_spirit_vessel"		"Spirit Vessel provides additional life and movement speed which allows Abaddon to weave in on fights and back when he just wants to support.
+
+Spirit Vessel is especially useful against heavier/fatter heroes that have a lot of HP and survivability as the damage scales by % to their health."
+			"item_holy_locket"		"Amplify the heal you send out with Mist Coil, this will also improve how much life you lose when you have your ultimate active, meaning your  Aphotic Shield will break earlier or you'll regain life while your ultimate is active."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"abaddon_frostmourne"
+			"2"		"abaddon_aphotic_shield"
+			"3"		"abaddon_aphotic_shield"
+			"4"		"abaddon_death_coil"
+			"5"		"abaddon_aphotic_shield"
+			"6"		"abaddon_borrowed_time"
+			"7"		"abaddon_aphotic_shield"
+			"8"		"abaddon_frostmourne"
+			"9"		"abaddon_frostmourne"
+			"10"		"special_bonus_strength_10"
+			"11"		"abaddon_frostmourne"
+			"12"		"abaddon_borrowed_time"
+			"13"		"abaddon_death_coil"
+			"14"		"abaddon_death_coil"
+			"15"		"special_bonus_unique_abaddon_2"
+			"16"		"abaddon_death_coil"
+			"18"		"abaddon_borrowed_time"
+			"20"		"special_bonus_cooldown_reduction_20"
+			"25"		"special_bonus_unique_abaddon"
+		}
+		"AbilityTooltips"
+		{
+			"abaddon_death_coil"		"Use Mist Coil to:
+
+1. Heal an ally (even if they're using Black King Bar)
+2. Deny yourself if about to die (takes your HP)
+3. Break your Aphotic Shield (takes your HP)
+
+Pop Mist Coil when you are under Borrowed Time to personally earn some HP."
+			"abaddon_aphotic_shield"		"Aphotic Shield deals its damage regardless if your shielded target takes damage or you cast another shield on top.
+
+Aphotic Shield prevents damage being taken, so Blink Dagger will not get broken if Aphotic Shield is on.
+
+Use Aphotic Shield to rid slows and other disables."
+			"abaddon_frostmourne"		"Works on towers, creeps and heroes. Focus on a specific target you want to silence or chase down rather than the nearest foe."
+			"abaddon_borrowed_time"		"Be careful about this ability as it does not activate if nuked down from a certain current health to 0.
+
+Can be activated manually even if stunned.
+Auto-passive cast disabled when Break debuff applied.
+
+This is your safety net, not initiation."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_cooldown_reduction_15"		"Reduces all item and ability cooldowns, granting Abaddon more "
+		}
+	}
+}
+ 

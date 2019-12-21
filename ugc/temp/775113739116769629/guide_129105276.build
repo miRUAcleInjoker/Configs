@@ -1,0 +1,160 @@
+"guidedata"
+{
+	"Hero"		"shredder"
+	"Title"		"Standard Rivalry.com Build"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"[url=https://twitter.com/TorteDeLini]Follow on Twitter for Updates[/url]
+[url=https://www.twitch.tv/tortedelini]Hero Builds tested live on Twitch TV[/url]
+[url=https://discord.gg/esUUT8D]Questions? Join the Discord Server[/url]"
+	"GuideRevision"		"79"
+	"AssociatedWorkshopItemID"		"0x0000000007B1FD7C"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF50D2C"
+	"TimePublished"		"0x000000005DF50D2C"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_enchanted_mango"
+				"item"		"item_quelling_blade"
+				"item"		"item_ward_observer"
+			}
+			"sponsored by rivalry.com"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+			"early game"
+			{
+				"item"		"item_soul_ring"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"core items (offlane)"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_cyclone"
+				"item"		"item_lotus_orb"
+			}
+			"situational items"
+			{
+				"item"		"item_blade_mail"
+				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_sphere"
+			}
+			"extension items"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_pipe"
+				"item"		"item_shivas_guard"
+				"item"		"item_bloodstone"
+				"item"		"item_sheepstick"
+				"item"		"item_octarine_core"
+			}
+			"Neutral Items"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_branches"		"Use Iron Branch to place a Tree near enemies to then Timber Chain them for damage. Get creative with your Iron Branches and purchase more if necessary!"
+			"item_enchanted_mango"		"Use Enchanted Mango to either give yourself the need mana to escape or pursue an enemy for the kill.
+
+Just holding the mango will give you health regen, so use it when needed."
+			"item_tango"		"Eat a tree with your Iron Branch to improve your regeneration greatly!"
+			"item_ultimate_scepter"		"The second Chakram can be used to either continue the slow on foes or a constant burst damage by throwing it out and returning it (while the first one slows the enemy)
+
+Be wary of your mana as both Chakrams will cost you a lot."
+			"item_black_king_bar"		"Nothing is more annyoing than being prevented from spamming your abilities. Definitely consider Black King Bar if the circumstances rings true above."
+			"item_shivas_guard"		"Shiva's Guard is the next great item for Timbersaw as he welcomes the mana, suffers from low armor and puts a damper on fleeing enemies with its active."
+			"item_bloodstone"		"This is so core that it should be a separate section. Without this, you will not have the mana to survive in battle and spam your abilities, ultimately bringing though your utility. 
+
+Timbersaw fights with his abilities, Bloodstone ensures you can fight continuously."
+			"item_sphere"		"Linken's Sphere is needed towards abilities that completely disables you. Heroes like Doom and Necrophos, are abilities that stifle or kill you entirely to which you want to negate. Linken's Sphere enables you to keep going and not fear those kinds of game-ending ultimates."
+			"item_lotus_orb"		"Lotus Orb punishes key magic users that target you to specifically nuke you down. Heroes like Lina or Lion and their ultimates are key examples of abilities to use Lotus Orb on. 
+
+To add, the armour and manapool increase are complimentary to Timbersaw."
+			"item_blade_mail"		"Timbersaw can be a great tanky hero that can take quite a few slaps. With Blade Mail, you punish those who want to try and wear you down and helps you alleviate needing to put in any more expensive items to tank up to compensate for annoying enemy physical carries."
+			"item_soul_ring"		"Soul Ring combos greately with Timbersaw's Reactive Armor and stats: extra health and more mana to cast spells with little downside as he easily regenerates the lost life back."
+			"item_arcane_boots"		"Be sure to disassemble your boots to make Bloodstone quicker."
+			"item_octarine_core"		"Octarine Core is the creme de la creme for Timbersaw. The cooldown reduction is huge for Timbersaw and the lifesteal will make you in fights constantly and without fear of dying. If you can go for it, get it as soon as possible."
+			"item_cyclone"		"Eul's a foe to then trap them with your Chakram:
+
+1. Cast Eul's on an enemy
+2. Chakram (and Agh's Chakram) onto foe
+3. Follow-up with Timber Chain
+4. Whirling Death as you pass by (or if they are near trees)"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"shredder_reactive_armor"
+			"2"		"shredder_whirling_death"
+			"3"		"shredder_reactive_armor"
+			"4"		"shredder_timber_chain"
+			"5"		"shredder_reactive_armor"
+			"6"		"shredder_chakram"
+			"7"		"shredder_reactive_armor"
+			"8"		"shredder_timber_chain"
+			"9"		"shredder_timber_chain"
+			"10"		"special_bonus_mp_regen_250"
+			"11"		"shredder_timber_chain"
+			"12"		"shredder_chakram"
+			"13"		"shredder_whirling_death"
+			"14"		"shredder_whirling_death"
+			"15"		"special_bonus_spell_amplify_10"
+			"16"		"shredder_whirling_death"
+			"18"		"shredder_chakram"
+			"20"		"special_bonus_cooldown_reduction_15"
+			"25"		"special_bonus_unique_timbersaw"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_hp_150"		"The extra health, mixed with your Reactive Armour ability makes it easier for Timbersaw to sustain himself in-lane to farm the jungle to get his necessary items."
+			"special_bonus_cast_range_125"		"If getting near your foes is impossible, the extra range might be better over the spell amplification."
+			"special_bonus_strength_20"		"The reduction in whirling death is great for certain heroes and generally preferred when you're ahead and winning comfortable.
+
+If you're dying a lot, the strength increase can significantly argument your health-pool and right-click damage."
+			"special_bonus_hp_regen_14"		"With Bloodstone and Reactive Armor, the regeneration - mixed with your health and armour, makes you nearly unkillable unless heavily targeted and nuked."
+			"shredder_whirling_death"		"Consider Whriling Death both as a debuff and as a damage-dealer. This works great alongside Timber Chain.
+
+1. Open with Chakram to keep foes in-range
+2. Timber-Chain in a direction that crosses them.
+3, Activate Whirling Death as you pass them"
+			"shredder_timber_chain"		"Timber Chain is your Escape and ability to move quickly in team-fights. With it's low cooldown, incredible range and great damage. This ability works wonders to deal the necessary hurt you need.
+
+Spam this as it is off cooldown, to keep yourself on the move, kiting foes and dishing damage on way."
+			"shredder_reactive_armor"		"Reactive Armor is a great tool for tanking creeps and farming while also keeping you alive in battle.
+
+Use this early point to take some hits from creeps. Juggle your stacks to maintain strong armour and health regen. This should mitigate any harassment in lane.
+
+Split attacks on you (Luna's Moon Glaives & Medusa's Split Shot) do not give stacks to your Reactive Armor."
+			"shredder_chakram_2"		"Chakram is a great way to control of the battle and keep your opponents at bay or keep them from running. If doing solid with your Blood Stone, you can keep this on for long periods of time as most of your damage comes from your abilities, not your attacks."
+			"shredder_chakram"		"Chakram is a great way to control of the battle and keep your opponents at bay or keep them from running. If doing solid with your Blood Stone, you can keep this on for long periods of time as most of your damage comes from your abilities, not your attacks.
+
+Prevents you from auto-attacking."
+			"special_bonus_unique_timbersaw"		"The reduction in whirling death is great for certain heroes and generally preferred when you're ahead and winning comfortable.
+
+If you're dying a lot, the strength increase can significantly argument your health-pool and right-click damage."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_cooldown_reduction_10"		"Reduces both ability and active-item cooldowns."
+		}
+	}
+}
+ 
